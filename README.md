@@ -10,7 +10,7 @@ Repositorio del curso Introducción a la Minería de Datos dictado en el Departa
 
 1. [Clase 1: Introducción Motivación](slides/Clase_1_intro.pdf) 
 1. [Clase 2: Datos I](slides/Clase_2_datos_I.pdf) 
-1. [Clase 3: Exploración de Datos en R](slides/Clase_3_explora.pdf) 
+1. [Clase 3: Exploración de Datos en R](slides/Clase_3_explora.pdf), [video 1](https://youtu.be/uR72B2V8D2I), [video 2](https://youtu.be/LA_HD9g-oDc), [video 3](https://youtu.be/StnwJITvXZ8), [video 4](https://youtu.be/Rt4n5Wzp6T8) 
 1. [Clase 4: Datos II ](slides/Clase_4_datos_II.pdf) 
 1. [Clase 5: Clasificación I](slides/Clase_5_clasi_I.pdf) 
 1. [Clase 6: Clasificación II - Framework](slides/Clase_6_clasi_frame.pdf) 
