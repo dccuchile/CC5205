@@ -6,7 +6,7 @@ Repositorio del curso Introducción a la Minería de Datos dictado en el Departa
 
 
 
-## Slides
+## Slides y Videos
 
 1. [Clase 1: Introducción Motivación](slides/Clase_1_intro.pdf) 
 1. [Clase 2: Datos I](slides/Clase_2_datos_I.pdf) 
