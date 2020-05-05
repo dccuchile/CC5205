@@ -16,7 +16,7 @@ Repositorio del curso Introducción a la Minería de Datos dictado en el Departa
 1. [Clase 6: Clasificación II - Framework](slides/Clase_6_clasi_frame.pdf) 
 1. [Clase 7: Clasificación III - Algoritmos de Clasificación (árboles, KNN, Naive Bayes)](slides/Clase_7_clasi_algo.pdf) 
 1. [Clase 8: Clasificación IV - Support Vector Machines](slides/Clase_8_clasi_SVM.pdf) 
-1. [Clase 9: Clasificación- Caso de Estudio: Rumores en Twitter](slides/Clase_9_caso_estudio_.pdf) 
+1. [Clase 9: Clasificación - Caso de Estudio: Rumores en Twitter](slides/Clase_9_caso_estudio_.pdf) 
 1. [Clase 12: Reglas de Asociación](slides/Clase_12_reglas.pdf) 
 
 
