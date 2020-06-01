@@ -17,6 +17,8 @@ Repositorio del curso Introducción a la Minería de Datos dictado en el Departa
 1. [Clase 7: Clasificación III - Algoritmos de Clasificación (árboles, KNN, Naive Bayes)](slides/Clase_7_clasi_algo.pdf), [video 1](https://youtu.be/zhoc268wmhw), [video 2](https://youtu.be/rqLO8m86cyA), [video 3](https://youtu.be/deQk6HAvZuY)
 1. [Clase 8: Clasificación IV - Support Vector Machines](slides/Clase_8_clasi_SVM.pdf), [video 1](https://youtu.be/M1tLHIIBjKo), [video 2](https://youtu.be/uJHT5S-_Za8), [video 3](https://youtu.be/CivX23oLexY), [video 4](https://youtu.be/pJBu_8cGtp0) 
 1. [Clase 9: Clasificación - Caso de Estudio: Rumores en Twitter](https://prezi.com/r6xefyatyuwg/information-credibility-on-twitter/), [paper](slides/Clase_9_caso_estudio_.pdf),  [video](https://youtu.be/eV9HpEYeqZY)
+1. [Clase 10: Clustering I - Introducción](slides/Clase_10_clustering_intro.pdf), [video 1](https://www.youtube.com/watch?v=WUYl6p4fd8c)
+
 1. [Clase 12: Reglas de Asociación](slides/Clase_12_reglas.pdf), [video 1](https://youtu.be/rJetotSy5Eg), [video 2](https://youtu.be/sCsfNowiCIE), [video 3](https://youtu.be/__pQDM-1MlM), [video 4](https://youtu.be/b1r1iMhlds4)  
 
 
