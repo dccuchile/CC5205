@@ -36,7 +36,7 @@ Repositorio del curso Introducción a la Minería de Datos dictado en el Departa
 
 1. [Clase 15: Selección y Reducción de Atributos](slides/Clase_15_atributos.pdf), [video 1](https://youtu.be/qFk4bvpV11Y), [video 2](https://youtu.be/ZZDHtarvaAk), [video 3](https://youtu.be/LtcLAJGRoh4)
 
-1. [Clase 16: Modelos Lineales y Redes Neuronales](slides/Clase_16_regresiones.pdf) [video 1](https://youtu.be/ojNcvVpF_g0), [video 2](https://youtu.be/m44ofYuaRiI)
+1. [Clase 16: Modelos Lineales y Redes Neuronales](slides/Clase_16_regresiones.pdf), [video 1](https://youtu.be/ojNcvVpF_g0), [video 2](https://youtu.be/m44ofYuaRiI)
 
    
 
