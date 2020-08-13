@@ -4,7 +4,7 @@ Repositorio del curso Introducción a la Minería de Datos dictado en el Departa
 * Profesores: [Bárbara Poblete](https://www.barbara.cl/), [Felipe Bravo-Marquez](https://felipebravom.com/) y [Hernán Sarmiento](https://scholar.google.com/citations?user=LlvbtQ0AAAAJ&hl=es)
 * [Playlist de Youtube con videos de clases](https://www.youtube.com/playlist?list=PLppKo85eGXiV4yFfmP0jBdYbaS_YATrH-)
 
-* [Reglas del Curso Primavera 2020](https://docs.google.com/document/d/1qHAExT8ULAQjufdYAmqoq3lMbKpbEEj34JY9hupPxK0/edit?usp=sharing)
+* [Reglas del Curso Primavera 2020](reglas_curso.md)
 
 ## Slides y Videos
 
