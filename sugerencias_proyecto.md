@@ -1,18 +1,12 @@
 # Sugerencia de datasets para el proyecto
 
--El dataset debe permitirles desarrollar un proceso de Minería de Datos donde se planteen **hipótesis**, apliquen métodos descriptivos, predictivos, interpreten los resultados, etc.
+* El dataset debe permitirles desarrollar un proceso de Minería de Datos donde se planteen **hipótesis**, apliquen métodos descriptivos, predictivos, interpreten los resultados, etc.
 
-  
+* Lo ideal es que sea un volumen grande (muchas filas) y de alta dimensionalidad (varias decenas de columnas). 
 
--Lo ideal es que sea un volumen grande (muchas filas) y de alta dimensionalidad (varias decenas de columnas). 
+* Si es un dataset de una competencia nos gustaría que planteen otras tareas alternativas con los datos y no sólo lo que se propone en la competencia. Un objetivo del proyecto es que ustedes puedan extraer conocimiento de los datos y no sólo maximizar "a ciegas" una tasa de aciertos. En caso de datasets con análisis públicos (como notebooks) demás está decir que su trabajo debe ser diferente.
 
-
-
--Si es un dataset de una competencia nos gustaría que planteen otras tareas alternativas con los datos y no sólo lo que se propone en la competencia. Un objetivo del proyecto es que ustedes puedan extraer conocimiento de los datos y no sólo maximizar "a ciegas" una tasa de aciertos. En caso de datasets con análisis públicos (como notebooks) demás está decir que su trabajo debe ser diferente.
-
-
-
--Una parte importante del proyecto y de manera general en la Minería de Datos es la reproducibilidad. En ese sentido en sus informes, reportes y presentaciones deben incluir referencias al dataset utilizado (links) siempre que sea posible.
+* Una parte importante del proyecto y de manera general en la Minería de Datos es la reproducibilidad. En ese sentido en sus informes, reportes y presentaciones deben incluir referencias al dataset utilizado (links) siempre que sea posible.
 
 ### **Algunas ideas**
 
