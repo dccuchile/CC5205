@@ -77,7 +77,7 @@ Después del hito 1 cada grupo debe reunirse con uno de los profesores de cáted
 
 • Nota Final = NP * 0,4 + NT * 0,6
 
-• Nota Tareas = Promedio (MEJOR5(T1,T2,T3,T4,TR)) 
+• Nota Tareas = Promedio (MEJOR4(T1,T2,T3,T4,TR)) 
 
 • Nota Proyecto = Promedio (H1, H2) 
 
