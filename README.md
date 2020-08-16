@@ -6,6 +6,8 @@ Repositorio del curso Introducción a la Minería de Datos dictado en el Departa
 
 * [Reglas del Curso Primavera 2020](reglas_curso.md)
 
+* [Calendario](calendario.md)
+
 * [Sugerencias de Proyecto](sugerencias_proyecto.md)
 
 ## Slides y Videos
