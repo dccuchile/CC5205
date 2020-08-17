@@ -43,11 +43,9 @@ El curso consta de dos tipos de evaluaciones.
 
 Una tarea formativa para las 4 primeras unidades. Habrá una tarea recuperativa sobre la unidad 5 para reemplazar la peor nota o inasistencias. El plazo de entrega será de dos semanas por tarea con un punto de descuento por día de atraso.
 
+Estas tareas tienen preguntas teóricas simples y partes de programación.
 
-
-Estas tareas tienen preguntas teóricas simples y partes de programación-
-
-
+Estas actividades deben realizarse en grupos de *2 personas* de manera *estricta*. 
 
 ### Proyecto
 
