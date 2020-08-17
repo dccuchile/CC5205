@@ -1,7 +1,7 @@
 # Calendario del Curso
 
 * Las cátedras del curso se realizarán de forma asíncrona. Sin embargo, periódicamente se efectuarán sesiones de consultas a través de Zoom.
-* Cada Tareaoratorio dispondrá de 2 semanas aprox. para su entrega. Además, estos estarán acompañados de un tutorial a través de Zoom. 
+* Cada Tarea dispondrá de 2 semanas aprox. para su entrega. Además, estos estarán acompañados de un tutorial a través de Zoom. 
 
 1. Semana 1:
 	* Lunes 31/08. Zoom presentación curso. Cátedra Introducción/Motivación
