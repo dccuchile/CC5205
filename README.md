@@ -47,3 +47,4 @@ Repositorio del curso Introducción a la Minería de Datos dictado en el Departa
 
 ## Links
 1. [Libro: Introduction to Data Mining (Second Edition)](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)
+2. [Repositorio antiguo del curso por Mauricio Quezada](https://github.com/mquezada/uchile-cc5206)
