@@ -11,8 +11,9 @@
 ### **Algunas ideas**
 
 - **COVID 19**: Hay varios datasets públicos respecto a la pandemia.
+  - [Datos COVID19 Chile - Repositorio de Jorge Pérez](https://github.com/jorgeperezrojas/covid19-data)
   - [COVID19 Global Forecasting](https://www.kaggle.com/c/covid19-global-forecasting-week-1/overview)
-  - [https://www.semanticscholar.org/cord19](https://www.semanticscholar.org/cord19)
+  - [COVID-19 Open Research Dataset](https://www.semanticscholar.org/cord19)
 
 - **Fairness & Bias (Data Science for Social Good)**: Un nuevo problema surge con el uso de Machine Learning y Data Mining en contextos sociales, como lo es el sesgo y la discriminación. Esto sugiere encontrar formas de crear modelos que permitan tratar a distintos grupos de manera "justa", pero la definición de justicia es compleja y los problemas se arrastran desde la generación de los datos, la interpretación de éstos y de los modelos, y de cómo repercuten en el futuro. Por ejemplo, un caso emblemático en Estados Unidos fue el de una empresa que ofrecía una predicción de riesgo de criminales por reincidir, y este puntaje es usado por jueces para ajustar las penas. Se observó que este puntaje era asignado de forma desequilibrada a distintos grupos raciales o étnicos. El objetivo de este proyecto es identificar estos sesgos y encontrar formas de disminuirlos, o concluir que no existe tal solución.
 
