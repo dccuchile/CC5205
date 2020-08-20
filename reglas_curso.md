@@ -45,7 +45,7 @@ Una tarea formativa para las 4 primeras unidades. Habrá una tarea recuperativa 
 
 Estas tareas tienen preguntas teóricas simples y partes de programación.
 
-Estas actividades deben realizarse en grupos de **2 personas** de manera **estricta**. 
+Estas actividades deben realizarse en grupos de 2 o 3 personas. 
 
 ### Proyecto
 
