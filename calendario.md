@@ -14,7 +14,7 @@
 	* Lunes 14/09. Zoom consultas. Cátedra Datos II.
 	* Viernes 18/09. Feriado.
 4. Semana 4:
-	* Lunes 21/09: Zoom presentación de H1. Cátedra Clasificación I.
+	* Lunes 21/09: Zoom explicación H1 (profesores). Cátedra Clasificación I.
 	* Viernes 25/09: Clasificación II. Entrega Tarea 1.
 5. Semana 5:
 	* Lunes 28/09: Zoom tutorial II. Cátedra Clasificación III.
