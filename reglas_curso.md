@@ -55,7 +55,7 @@ Proyecto (en grupos): evaluado en 3 hitos (o etapas)
 
 • Hito 1: Exploración de un dataset. Se entrega un informe y un video.
 
-* Hito 2: Propuesta de Experimentos y Resultados preliminares. Oportunidad de mejorar el H1. Se entrega un mini informe. 
+• Hito 2: Propuesta de Experimentos y Resultados preliminares. Oportunidad de mejorar el H1. Se entrega un mini informe. 
 
 • Hito 3 : informe final y video final.
 
