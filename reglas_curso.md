@@ -45,25 +45,22 @@ Una tarea formativa para las 4 primeras unidades. Habrá una tarea recuperativa 
 
 Estas tareas tienen preguntas teóricas simples y partes de programación.
 
-Estas actividades deben realizarse en grupos de **2 personas** de manera **estricta**. 
+Estas actividades deben realizarse en grupos de 2 o 3 personas. 
 
 ### Proyecto
 
 
 
-Proyecto (en grupos): evaluado en 2 hitos (o etapas)
+Proyecto (en grupos de 4 o 5 personas): evaluado en 3 hitos (o etapas)
 
 • Hito 1: Exploración de un dataset. Se entrega un informe y un video.
 
+• Hito 2: Propuesta de Experimentos y Resultados preliminares. Oportunidad de mejorar el H1. Se entrega un mini informe. 
 
-
-• Hito 2 : informe final y video final.
+• Hito 3 : informe final y video final.
 
 El informe es incremental y se presenta en formato de una página Web
 
-
-
-Después del hito 1 cada grupo debe reunirse con uno de los profesores de cátedra para discutir cómo seguir para el hito 2.
 
 
 
@@ -77,7 +74,7 @@ Después del hito 1 cada grupo debe reunirse con uno de los profesores de cáted
 
 • Nota Tareas = Promedio (MEJOR4(T1,T2,T3,T4,TR)) 
 
-• Nota Proyecto = Promedio (H1, H2) 
+• Nota Proyecto =  0.3 * H1 + 0.2 * H2 + 0.5 * H3   
 
 
 

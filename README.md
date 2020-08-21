@@ -12,7 +12,7 @@ Repositorio del curso Introducción a la Minería de Datos dictado en el Departa
 
 ## Slides y Videos
 
-1. [Clase 1: Introducción Motivación](slides/Clase_1_intro.pdf) 
+1. [Clase 1: Introducción Motivación](slides/Clase_1_intro.pdf), [video 1](https://youtu.be/suD-27ms_5o), [video 2](https://youtu.be/W4SBNw25mbA)
 
 1. [Clase 2: Datos I](slides/Clase_2_datos_I.pdf) 
 
@@ -47,3 +47,5 @@ Repositorio del curso Introducción a la Minería de Datos dictado en el Departa
 
 ## Links
 1. [Libro: Introduction to Data Mining (Second Edition)](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)
+2. [Repositorio antiguo del curso por Mauricio Quezada](https://github.com/mquezada/uchile-cc5206)
+3. [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow: Notebooks](https://github.com/ageron/handson-ml2)
