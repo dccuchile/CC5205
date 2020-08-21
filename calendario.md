@@ -15,7 +15,7 @@
 	* Viernes 18/09. Feriado.
 4. Semana 4:
 	* Lunes 21/09: Zoom explicación H1 (profesores). Cátedra Clasificación I.
-	* Viernes 25/09: Clasificación II. Entrega Tarea 1.
+	* Viernes 25/09: Cátedra Clasificación II. Entrega Tarea 1.
 5. Semana 5:
 	* Lunes 28/09: Zoom tutorial II. Cátedra Clasificación III.
 	* Viernes 01/10: Zoom consultas. Cátedra Clasificación IV. 
@@ -32,14 +32,14 @@
 	* Publicación Tarea 3.
 9. Semana 9:
 	* Lunes 02/11: Zoom consultas. Cátedra Clustering III. 
-	* Viernes 06/11: Zoom sesión H2. 
+	* Viernes 06/11: Zoom sesión de consultas H2. 
 10. Semana 10:
 	* Lunes 09/11: : Cátedra Reglas Asosiación I. Entrega Tarea 3
 	* Viernes 13/11: Zoom consultas. Cátedra Reglas Asociación II.
 	
 11. Semana 11:
 	* Lunes 23/11: Zoom tutorial IV - Cátedra Selección y Reducción de Atributos I.
-	* Viernes 27/11:  Cátedra Selección y Reducción de Atributos II. 
+	* Viernes 27/11:  Cátedra Selección y Reducción de Atributos II. Entrega H2.
 	* Publicación Tarea 4.
 12. Semana 12:
 	* Lunes 30/11: Zoom consultas
@@ -49,5 +49,5 @@
 	* Viernes 11/12: Zoom Consultas.  
 	* Publicacion Tarea 5 (opcional)
 14. Semana 14: 
-	* Lunes 14/12: Zoom Consultas H2. 
-	* Viernes 18/12: Entrega H2. Entrega Tarea 5 (opcional).
+	* Lunes 14/12: Zoom Consultas H3. 
+	* Viernes 18/12: Entrega H3. Entrega Tarea 5 (opcional).
