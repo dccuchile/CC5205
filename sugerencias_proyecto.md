@@ -56,35 +56,36 @@
 - Dataset de reviews de Amazon.
 - Tweets de Ataques Terroristas de Manchester y Westminster, ambos ocurridos el 2017.
 - Tweets de Chile geo-etiquetados del 2012 al 2017.
-- Minería de repositorios: todos los repositorios de Github con más de 50 estrellas hasta enero de 2018, hablar con Juan-Pablo.
 
 
 
 #### **Otros datasets disponibles**
 
+Para preguntar si alguien tiene datos de...:
 - ‘Datasets’ subreddit. https://www.reddit.com/r/datasets/ 
-- Vox Articles published before March 2017. https://data.world/elenadata/vox-articles
-- Microdatos del Censo Nacional de Población y Vivienda 2017. [http://www.censo2017.cl/microdatos/](https://inechile-my.sharepoint.com/:u:/g/personal/inedocs_inechile_onmicrosoft_com/EX_aLJWCODFPsgcJjYQKtaEBq-8lZu1Cy9g1hU6qQzkLIg?e=9x6e7B)
+
+Chile:
+- Microdatos del Censo Nacional de Población y Vivienda 2017. [http://www.censo2017.cl/microdatos/](http://www.censo2017.cl/microdatos/)
 - Portal de Datos Abiertos. [http://datos.gob.cl](http://datos.gob.cl/)
 - Gobierno Transparente. [http://transparenciaactiva.presidencia.cl](http://transparenciaactiva.presidencia.cl/)
 - Transparencia Universidad de Chile. http://www.uchile.cl/transparencia
-- Data.gov. [http://www.data.gov](http://www.data.gov/)
-- UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets.html
-- Datasets for Data Geeks. [http://www.datasets.co](http://www.datasets.co/)
-- Stanford Network Analysis Project. [https://snap.stanford.edu](https://snap.stanford.edu/)
-- Wikipedia Data Dump. https://en.wikipedia.org/wiki/Wikipedia:Database_download
-- DBpedia datasets. http://dbpedia.org/datasets
-- Google BigQuery Public Datasets https://cloud.google.com/bigquery/public-data/
-- Social and Information Network Analysis http://web.stanford.edu/class/cs224w/resources.html
-- Listado de datasets recopilado por KDnuggets. http://www.kdnuggets.com/datasets/index.html
-- Listado de datasets recopilado por usuarios de Quora. https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
-- Instagram API. https://www.instagram.com/developer/
+- Departamento de estadisticas e informacion de salud (SEIS): http://www.deis.cl/descargar-bases-de-datos-2/
+
+APIs:
 - Facebook API. [https://developers.facebook.com](https://developers.facebook.com/)
 - Twitter API. [https://dev.twitter.com](https://dev.twitter.com/)
-- Departamento de estadisticas e informacion de salud (SEIS): http://www.deis.cl/descargar-bases-de-datos-2/
-- Datos de cáncer en USA (necesitan pedir acceso): https://seer.cancer.gov/data/access.html
-- Evolución de mortalidad en el mundo (necesitan pedir acceso): https://www.mortality.org/
-- Datasets varios (necesitan pedir acceso): https://bigml.com/gallery/datasets
+
+Otros:
+- Wikipedia Data Dump. https://en.wikipedia.org/wiki/Wikipedia:Database_download
+- Data.gov. [http://www.data.gov](http://www.data.gov/)
+- Vox Articles published before March 2017. https://data.world/elenadata/vox-articles
+- Stanford Network Analysis Project. [https://snap.stanford.edu](https://snap.stanford.edu/)
+- Google BigQuery Public Datasets https://cloud.google.com/bigquery/public-data/
+- Listado de datasets recopilado por KDnuggets. http://www.kdnuggets.com/datasets/index.html
+- Listado de datasets recopilado por usuarios de Quora. https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
 - Datos de elementos y cosas que afectan la salud humana: https://healthdata.gov/search/type/dataset
+
+Pidiendo acceso:
+- Datos de cáncer en USA (necesitan pedir acceso): https://seer.cancer.gov/data/access.html
+- Datasets varios (necesitan pedir acceso): https://bigml.com/gallery/datasets
 - Datos de Yelp (necesitan pedir acceso): https://www.yelp.com/dataset
-- Millones de imágenes de anime anotadas, se sugiere solo utilizar las anotaciones y modelarlas en el tiempo https://www.gwern.net/Danbooru2018 
