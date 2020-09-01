@@ -31,14 +31,6 @@
 
 - - Ver también: [https://blog.anudeep2011.com/machine-learning-everywhere-why-not-in-competitive-programming](https://blog.anudeep2011.com/machine-learning-everywhere-why-not-in-competitive-programming/)
 
-- **Russian Troll Tweets**. Un dataset de tres millones de tweets de supuestas cuentas rusas publicados durante el período de elecciones presidenciales estadounidenses durante el año 2016 y 2017.
-
-- - Ver: https://fivethirtyeight.com/features/why-were-sharing-3-million-russian-troll-tweets/
-  - https://fivethirtyeight.com/features/what-you-found-in-3-million-russian-troll-tweets/
-  - Datos: https://github.com/fivethirtyeight/russian-troll-tweets 
-
-- **Discursos presidenciales chilenos (Piñera, Bachelet, Allende).** Ver: https://github.com/jorgeperezrojas/discursos 
-
 - **Tweets relacionados a crisis y desastres**: CrisisNLP es un recurso en el cual investigadores han compartido sus dataset relacionados a situaciones de emergencia, utilizados en sus investigaciones. https://crisisnlp.qcri.org/ 
 
 - **Datos climáticos**: mediciones históricas de Chile respecto a precipitaciones y temperaturas medias y máximas. Buscar en la pestaña de Observaciones. http://www.cr2.cl/
