@@ -44,7 +44,6 @@
 #### **Otros temas sugeridos (pedir a los auxiliares)**
 
 - Analizar comentarios de artículos de Emol.
-- Dataset de reviews de cervezas.
 - Dataset de reviews de Amazon.
 - Tweets de Ataques Terroristas de Manchester y Westminster, ambos ocurridos el 2017.
 - Tweets de Chile geo-etiquetados del 2012 al 2017.
@@ -54,7 +53,8 @@
 #### **Otros datasets disponibles**
 
 Para preguntar si alguien tiene datos de...:
-- ‘Datasets’ subreddit. https://www.reddit.com/r/datasets/ 
+- ‘Datasets’ subreddit. https://www.reddit.com/r/datasets/
+- Dataset de reviews de cervezas: https://www.kaggle.com/rdoume/beerreviews
 
 Chile:
 - Microdatos del Censo Nacional de Población y Vivienda 2017. [http://www.censo2017.cl/microdatos/](http://www.censo2017.cl/microdatos/)
