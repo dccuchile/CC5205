@@ -26,7 +26,7 @@
 	* Viernes 09/10: Zoom Consultas H1. 
 	
 6. Semana 6:
-	* Viernes. Entrega H1. Cátedra clasificación: caso estudio.
+	* Viernes 16/10. Entrega H1. Cátedra clasificación: caso estudio.
 	 
 	 	 
 7. Semana 7:
