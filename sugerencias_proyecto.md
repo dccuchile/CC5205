@@ -41,20 +41,21 @@
 
 - **Caracterizar series de anime**: explorar variaciones en el tiempo sobre tópicos de moda, estudios emergentes y gustos de usuarios. Contrastar éxito de series con las personas que trabajaron en esta. Datos generales pueden obtenerlos de https://www.kaggle.com/azathoth42/myanimelist (actualizado a mayo 2018), datos de equipos de producción preguntar a Juan-Pablo (actualizado a septiembre 2017).
 
-#### **Otros temas sugeridos (pedir a los auxiliares)**
+#### **Otros temas sugeridos**
+- Dataset de reviews de Amazon: https://www.kaggle.com/bittlingmayer/amazonreviews
+- Dataset de reviews de cervezas: https://www.kaggle.com/rdoume/beerreviews (con texto: http://jmcauley.ucsd.edu/cse255/data/beer/)
+
+#### **Más temas sugeridos (pedir al cuerpo docente)**
 
 - Analizar comentarios de artículos de Emol.
-- Dataset de reviews de Amazon.
 - Tweets de Ataques Terroristas de Manchester y Westminster, ambos ocurridos el 2017.
 - Tweets de Chile geo-etiquetados del 2012 al 2017.
 
 
-
 #### **Otros datasets disponibles**
 
-Para preguntar si alguien tiene datos de...:
-- ‘Datasets’ subreddit. https://www.reddit.com/r/datasets/
-- Dataset de reviews de cervezas: https://www.kaggle.com/rdoume/beerreviews
+- Buena fuente de datasets (recomendado): https://www.kaggle.com/datasets
+- Para preguntar si alguien tiene datos de X tema: https://www.reddit.com/r/datasets/
 
 Chile:
 - Microdatos del Censo Nacional de Población y Vivienda 2017. [http://www.censo2017.cl/microdatos/](http://www.censo2017.cl/microdatos/)
