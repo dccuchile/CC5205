@@ -17,8 +17,8 @@
 	* Viernes 25/09: Zoom explicación H1 (profesores). Cátedra Clasificación I.
 	
 4. Semana 4:
-	 * Lunes 28/09: Cátedra Clasificación II. Entrega Tarea 1.
-	 * Viernes 01/10: Zoom tutorial II. Cátedra Clasificación III.
+	 * Lunes 28/09: Cátedra Clasificación II. 
+	 * Viernes 02/10: Zoom tutorial II. Cátedra Clasificación III. Entrega Tarea 1.
 	 * Publicación Tarea 2
 	 
 5. Semana 5:
