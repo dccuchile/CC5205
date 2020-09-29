@@ -55,6 +55,7 @@
 #### **Otros datasets disponibles**
 
 - Buena fuente de datasets (recomendado): https://www.kaggle.com/datasets
+- Otra buena fuente de datasets: https://blog.bigml.com/list-of-public-data-sources-fit-for-machine-learning/
 - Para preguntar si alguien tiene datos de X tema: https://www.reddit.com/r/datasets/
 
 Chile:
