@@ -61,7 +61,7 @@ Proyecto (en grupos de 4 o 5 personas): evaluado en 3 hitos (o etapas)
 
 El informe es incremental y se presenta en formato de una página Web
 
-
+Tienen una 1 semana para atrasos con descuentos de 0.5 ptos a la nota por día.
 
 
 ### Notas
