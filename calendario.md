@@ -30,22 +30,23 @@
 	 
 	 	 
 7. Semana 7:
-	* Lunes 26/10: Zoom consultas post H1. Cátedra Clustering I. Entrega Tarea 2.
-	* Viernes 30/10: Zoom tutorial III
-	* Publicación Tarea 3.
+	* Lunes 26/10: Zoom consultas post H1. Cátedra Clustering I. 
+	* Jueves 29/19: Entrega Tarea 2.
+	* Viernes 30/10: Cátedra Clustering III.
 	
 	
 8. Semana 8: 
 	 * Lunes 02/11:  Cátedra Clustering II.
-	 * Viernes 06/11: Zoom consultas. Cátedra Clustering III. 
+	 * Viernes 06/11: Zoom tutorial III
+	 * Publicación Tarea 3.
 	
 9. Semana 9:
 	 * Lunes 09/11: Zoom sesión de consultas H2. 
-	 * Viernes 13/11: Cátedra Reglas Asosiación I. Entrega Tarea 3
+	 * Viernes 13/11: Cátedra Reglas Asosiación I. 
 	 
 10. Semana 10: 
 	* Lunes 16/11: Zoom consultas. Cátedra Reglas Asociación II.
-	* Viernes 20/11: Zoom tutorial IV - Cátedra Selección y Reducción de Atributos I.
+	* Viernes 20/11: Zoom tutorial IV - Cátedra Selección y Reducción de Atributos I. Entrega Tarea 3.
 	* Publicación Tarea 4.
 	
 11. Semana 11:
