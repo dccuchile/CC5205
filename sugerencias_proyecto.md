@@ -56,6 +56,7 @@
 
 - Buena fuente de datasets (recomendado): https://www.kaggle.com/datasets
 - Otra buena fuente de datasets: https://blog.bigml.com/list-of-public-data-sources-fit-for-machine-learning/
+- Zenodo: un repositorio open-access de datos y software científico: https://zenodo.org/ 
 - Para preguntar si alguien tiene datos de X tema: https://www.reddit.com/r/datasets/
 
 Chile:
