@@ -32,11 +32,11 @@
 7. Semana 7:
 	* Lunes 26/10: Zoom consultas post H1. Cátedra Clustering I. 
 	* Jueves 29/19: Entrega Tarea 2.
-	* Viernes 30/10: Cátedra Clustering III.
+	* Viernes 30/10: Cátedra Clustering II.
 	
 	
 8. Semana 8: 
-	 * Lunes 02/11:  Cátedra Clustering II.
+	 * Lunes 02/11:  Cátedra Clustering III.
 	 * Viernes 06/11: Zoom tutorial III
 	 * Publicación Tarea 3.
 	
