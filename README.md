@@ -35,9 +35,9 @@ Repositorio del curso Introducción a la Minería de Datos dictado en el Departa
 
 1. [Clase 10: Clustering I - Introducción](slides/Clase_10_clustering_intro.pdf), [video 1](https://www.youtube.com/watch?v=WUYl6p4fd8c)
 
-1. [Clase 11: Algoritmos de Clustering](slides/Clase_11_alg_clustering.pdf), [video 1](https://youtu.be/Y0Yjzr3EnO8), [video 2](https://youtu.be/1JJcU7BM3Pw), [video 3](https://youtu.be/p-rUJ6jSFgI), [video 4](https://youtu.be/AijoN3xNUxg)
+1. [Clase 11: Clustering II - Algoritmos de Clustering](slides/Clase_11_alg_clustering.pdf), [video 1](https://youtu.be/Y0Yjzr3EnO8), [video 2](https://youtu.be/1JJcU7BM3Pw), [video 3](https://youtu.be/p-rUJ6jSFgI), [video 4](https://youtu.be/AijoN3xNUxg)
 
-1. [Clase 12: Validación de Clusters](slides/Clase_12_validacion_clustering.pdf), [video](https://youtu.be/6afhlI4tY8I)
+1. [Clase 12: Clustering III - Validación de Clusters](slides/Clase_12_validacion_clustering.pdf), [video](https://youtu.be/6afhlI4tY8I)
 
 1. [Clase 13: Reglas de Asociación](slides/Clase_13_reglas.pdf), [video 1](https://youtu.be/rJetotSy5Eg), [video 2](https://youtu.be/sCsfNowiCIE), [video 3](https://youtu.be/__pQDM-1MlM), [video 4](https://youtu.be/b1r1iMhlds4)  
 
