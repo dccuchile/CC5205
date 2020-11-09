@@ -50,20 +50,20 @@
 	  
 11. Semana 11: 
 	* Lunes 30/11: Zoom consultas. Cátedra Reglas Asociación II.
-	* Viernes 04/12: Zoom tutorial IV - Cátedra Selección y Reducción de Atributos I. Entrega Tarea 3.
-	* Publicación Tarea 4.
+	* Viernes 04/12: Cátedra Selección y Reducción de Atributos I. Entrega H2. 
+	
 	
 12. Semana 12:
-	* Lunes 07/12:  Cátedra Selección y Reducción de Atributos II. Entrega H2.
+	* Lunes 07/12:  Cátedra Selección y Reducción de Atributos II. Entrega Tarea 3.
 	* Viernes 11/12: Zoom consultas
 	
 13. Semana 13:
-	 * Lunes 14/12: Cátedra Modelos Lineales y Redes Neuronales I. Zoom Consultas H3. Entrega Tarea 4
+	 * Lunes 14/12: Cátedra Modelos Lineales y Redes Neuronales I. Zoom Consultas H3. 
 	 * Viernes 18/12: Cátedra Modelos Lineales y Redes Neuronales II. 
-	  * Publicacion Tarea 5 (opcional)
+	 * Publicación Tarea 4. (opcional)
 	  
 14. Semana 14:
 	 * Lunes 21/12:  Entrega H3. 
-	 * Entrega Tarea 5 (opcional).
+	 * Entrega Tarea 4 (opcional).
 
 	 
