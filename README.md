@@ -58,3 +58,4 @@ Repositorio del curso Introducción a la Minería de Datos dictado en el Departa
 6. [Machine learning examples: A collection of machine learning examples and tutorials](https://github.com/lazyprogrammer/machine_learning_examples)
 7. [KDnuggets: sitio Web muy popular sobre DM, ML, AI, etc](https://www.kdnuggets.com/)
 8. [Centroid Initialization Methods for k-means Clustering - KDnuggets](https://www.kdnuggets.com/2020/06/centroid-initialization-k-means-clustering.html)
+9. [Nested Cross-Validation for Machine Learning with Python](https://machinelearningmastery.com/nested-cross-validation-for-machine-learning-with-python/)
