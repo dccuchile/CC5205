@@ -45,7 +45,7 @@
 	
 10. Semana 10:
 	 * Lunes 16/11: Zoom sesión de consultas H2. 
-	 * Viernes 20/11: Cátedra Reglas Asosiación I. 
+	 * Viernes 20/11: Cátedra Reglas Asociación I. 
 	 
 **RECESO**	 
 	  
