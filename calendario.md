@@ -55,8 +55,9 @@
 	
 	
 12. Semana 12:
-	* Lunes 07/12:  Cátedra Selección y Reducción de Atributos II. Entrega Tarea 3.
-	* Viernes 11/12: Zoom consultas
+	* Lunes 07/12:  Sin clases. 
+	* Miércoles 09/12: Entrega Tarea 3.
+	* Viernes 11/12: Cátedra Selección y Reducción de Atributos II. 
 	
 13. Semana 13:
 	 * Lunes 14/12: Cátedra Modelos Lineales y Redes Neuronales I. Zoom Consultas H3. 
