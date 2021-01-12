@@ -1,6 +1,6 @@
 # Sugerencia de datasets para el proyecto
 
-* El dataset debe permitirles desarrollar un proceso de Minería de Datos donde se planteen **hipótesis**, apliquen métodos descriptivos, predictivos, interpreten los resultados, etc.
+* El dataset debe permitirles desarrollar un proceso de Minería de Datos donde se planteen **preguntas**, apliquen métodos descriptivos, predictivos, interpreten los resultados, etc.
 
 * Lo ideal es que sea un volumen grande (muchas filas) y de alta dimensionalidad (varias decenas de columnas). 
 
