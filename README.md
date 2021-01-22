@@ -60,3 +60,4 @@ Repositorio del curso Introducción a la Minería de Datos dictado en el Departa
 8. [Centroid Initialization Methods for k-means Clustering - KDnuggets](https://www.kdnuggets.com/2020/06/centroid-initialization-k-means-clustering.html)
 9. [Nested Cross-Validation for Machine Learning with Python](https://machinelearningmastery.com/nested-cross-validation-for-machine-learning-with-python/)
 10. [Mathematics for Machine Learning](https://t.co/8ut4HxLMbE?amp=1)
+11. [FAISS a library for very fast clustering](https://github.com/facebookresearch/faiss)
