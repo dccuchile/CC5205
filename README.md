@@ -1,9 +1,9 @@
 # CC5206
 Repositorio del curso Introducción a la Minería de Datos dictado en el Departamento de Ciencias de la Computación de la Universidad de Chile
 
-* Profesores de Cátedra: [Bárbara Poblete](https://www.barbara.cl/), [Felipe Bravo-Marquez](https://felipebravom.com/) y [Hernán Sarmiento](https://scholar.google.com/citations?user=LlvbtQ0AAAAJ&hl=es)
-
-* Profesores Auxiliares:  Alison Fernandez, Aymé Arango, Cinthia Mabel Sánchez y Juan-Pablo Silva 
+* Profesores de Cátedra: [Bárbara Poblete](https://www.barbara.cl/) y [Felipe Bravo-Marquez](https://felipebravom.com/) 
+* Profesores Auxiliares: y [Hernán Sarmiento](https://scholar.google.com/citations?user=LlvbtQ0AAAAJ&hl=es),
+ Alison Fernandez, Aymé Arango y Cinthia Mabel Sánchez  
 
 * [Playlist de Youtube con videos de clases](https://www.youtube.com/playlist?list=PLppKo85eGXiV4yFfmP0jBdYbaS_YATrH-)
 
