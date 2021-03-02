@@ -2,25 +2,26 @@
 
 
 
+
 Semana | Fechas | Actividades | Videos | Slides 
 :------------: | :------------- | :------------- | :-------------: | :-------------: 
-1 | 15/03 - 21/03 | **Cátedra :** Introducción, Datos 1          | <a href="#"><img src="https://f0.pngfuel.com/png/830/655/red-and-white-play-logo-png-clip-art.png" width="16px" height="16px"></a>  [Introducción Parte 1](https://youtu.be/suD-27ms_5o) <br/><a href="#"><img src="https://f0.pngfuel.com/png/830/655/red-and-white-play-logo-png-clip-art.png" width="16px" height="16px"></a>  [Introducción Parte 2](https://youtu.be/W4SBNw25mbA) <br/><a href="#"><img src="https://f0.pngfuel.com/png/830/655/red-and-white-play-logo-png-clip-art.png" width="16px" height="16px"></a>  [Datos I Parte 1](https://youtu.be/suD-27ms_5o) <br/><a href="#"><img src="https://f0.pngfuel.com/png/830/655/red-and-white-play-logo-png-clip-art.png" width="16px" height="16px"></a>  [Datos I Parte 2](https://youtu.be/W4SBNw25mbA) <br/> | <a href="#"><img src="https://www.hiddenjunglecusco.com/wp-content/uploads/2019/11/PDF-Logo.png" width="16px" height="16px"></a><br/>[Introducción Motivación](slides/Clase_1_Introduccion_motivacion.pdf)<a href="#"><img src="https://www.hiddenjunglecusco.com/wp-content/uploads/2019/11/PDF-Logo.png" width="16px" height="16px"></a><br/>[Datos I](slides/Clase_2_datos_I.pdf) 
+1 | 15/03 - 21/03 | **Cátedra :** Introducción, Datos 1          | <a href="#"><img src="https://f0.pngfuel.com/png/830/655/red-and-white-play-logo-png-clip-art.png" width="16px" height="16px"></a>  [Introducción Parte 1](https://youtu.be/suD-27ms_5o) <br/><a href="#"><img src="https://f0.pngfuel.com/png/830/655/red-and-white-play-logo-png-clip-art.png" width="16px" height="16px"></a>  [Introducción Parte 2](https://youtu.be/W4SBNw25mbA) <br/><a href="#"><img src="https://f0.pngfuel.com/png/830/655/red-and-white-play-logo-png-clip-art.png" width="16px" height="16px"></a>  [Datos I Parte 1](https://youtu.be/suD-27ms_5o) <br/><a href="#"><img src="https://f0.pngfuel.com/png/830/655/red-and-white-play-logo-png-clip-art.png" width="16px" height="16px"></a>  [Datos I Parte 2](https://youtu.be/W4SBNw25mbA) <br/> | <a href="#"><img src="https://www.hiddenjunglecusco.com/wp-content/uploads/2019/11/PDF-Logo.png" width="16px" height="16px"></a>[Introducción Motivación](slides/Clase_1_Introduccion_motivacion.pdf)<br/><a href="#"><img src="https://www.hiddenjunglecusco.com/wp-content/uploads/2019/11/PDF-Logo.png" width="16px" height="16px"></a>[Datos I](slides/Clase_2_datos_I.pdf) 
 2 | 22/03 - 28/03 | **Cátedra:**  Exploración de datos en R.  <br/> **Tutorial:** Tutorial I  <br/> Publicación Tarea I |                                                              |  
-3 | 29/03 - 04/04 | Cátedra Datos II.   Cátedra Clasificación I. |                                                              |                                                              
+3 | 29/03 - 04/04 | **Cátedra:** Datos II, Clasificación I. |                                                              |                                                              
  Receso Académico |               |                                                   |                                                              |                                                              
-4 | 12/04-18/04 | Cátedra Clasificación II.  Cátedra Clasificación III. Entrega Tarea 1. |                                                              |                                                              
-5 | 19/04-25/04 | Cátedra Clasificación IV   Publicación Tarea 2 |  |                                                              
-6         | 26/04-02/04   | Cátedra clasificación: caso estudio. |                                                              |   
-7 | 03/05-09/05   | Cátedra Clustering I.  Cátedra Clustering II. |                                                              |                                                              
-8 | 10/05-16/05 | Cátedra Clustering III.   Pulicación Tarea 3 |  |  
+4 | 12/04-18/04 | **Cátedra:** Clasificación II, Clasificación III. <br/> **Tutorial:** Tutorial II  <br/>Entrega Tarea 1. |                                                              |                                                              
+5 | 19/04-25/04 | **Cátedra:** Clasificación IV  <br/> Publicación Tarea 2 <br/> Entrega Hito 1 |  |                                                              
+6         | 26/04-02/04   | **Cátedra:** clasificación caso estudio. |                                                              |   
+7 | 03/05-09/05   | **Cátedra:** Clustering I,  Clustering II. |                                                              |                                                              
+8 | 10/05-16/05 | **Cátedra:** Clustering III.   <br/>Pulicación Tarea 3 |  |  
 Semana Delta |  |  |  |  
-9 | 24/05-30/05 | Cátedra Reglas Asociación (video 1 y 2). |  |  
-10 | 31/05-06/06 | Cátedra Reglas Asociación (video 3 y 4(. |  |  
-11 | 07/06-13/06 | Cátedra Privacidad  Publicación Tarea 4 |  |  
-12 | 14/06-20/06 | Cátedra Selección y Reducción de Atributos |  |  
-13 | 21/06-27/06 | Cátedra Modelos Lineales y Redes Neuronales. Publicación Tarea 5 recuperativa |  |  
+9 | 24/05-30/05 | **Cátedra:** Reglas Asociación (video 1 y 2). <br/> Entrega Hito 2 |  |  
+10 | 31/05-06/06 | **Cátedra:** Reglas Asociación (video 3 y 4(. |  |  
+11 | 07/06-13/06 | **Cátedra:** Privacidad  <br/>Publicación Tarea 4 |  |  
+12 | 14/06-20/06 | **Cátedra:** Selección y Reducción de Atributos |  |  
+13 | 21/06-27/06 | **Cátedra:** Modelos Lineales y Redes Neuronales. Publicación Tarea 5 recuperativa |  |  
 Receso Académico |  |  |  |  
-14 | 05/07-11/07 | Preparación Hito 3 |  |  
+14 | 05/07-11/07 | Entrega Hito 3 |  |  
 Exámenes |  |  |  |  
 
 
