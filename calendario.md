@@ -10,7 +10,7 @@ Semana | Fechas | Actividades | Videos | Slides
  Receso Académico |               |                                                   |                                                              |                                                              
 4 | 12/04-18/04 | Cátedra Clasificación II.  Cátedra Clasificación III. Entrega Tarea 1. |                                                              |                                                              
 5 | 19/04-25/04 | Cátedra Clasificación IV   Publicación Tarea 2 |  |                                                              
-        6         | 26/04-02/04   | Cátedra clasificación: caso estudio. |                                                              |   
+6         | 26/04-02/04   | Cátedra clasificación: caso estudio. |                                                              |   
 7 | 03/05-09/05   | Cátedra Clustering I.  Cátedra Clustering II. |                                                              |                                                              
 8 | 10/05-16/05 | Cátedra Clustering III.   Pulicación Tarea 3 |  |  
 Semana Delta |  |  |  |  
