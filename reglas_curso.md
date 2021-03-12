@@ -72,7 +72,7 @@ Tienen una 1 semana para atrasos con descuentos de 0.5 ptos a la nota por día.
 
 • Nota Final = NP * 0,4 + NT * 0,6
 
-• Nota Tareas = Promedio (MEJOR3(T1,T2,T3,TR)) 
+• Nota Tareas = Promedio (MEJOR4(T1,T2,T3,T4,TR)) 
 
 • Nota Proyecto =  0.3 * H1 + 0.2 * H2 + 0.5 * H3   
 
