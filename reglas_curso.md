@@ -45,13 +45,13 @@ Una tarea formativa para las 4 primeras unidades. Habrá una tarea recuperativa 
 
 Estas tareas tienen preguntas teóricas simples y partes de programación.
 
-Estas actividades deben realizarse en grupos de 2 o 3 personas. 
+Estas actividades deben realizarse en grupos de 2 personas. 
 
 ### Proyecto
 
 
 
-Proyecto (en grupos de 4 o 5 personas): evaluado en 3 hitos (o etapas)
+Proyecto (en grupos de 5 personas): evaluado en 3 hitos (o etapas)
 
 • Hito 1: Exploración de un dataset. Se entrega un informe y un video.
 
