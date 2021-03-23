@@ -47,7 +47,6 @@
 
 #### **Más temas sugeridos (pedir al cuerpo docente)**
 
-- Analizar comentarios de artículos de Emol.
 - Tweets de Ataques Terroristas de Manchester y Westminster, ambos ocurridos el 2017.
 - Tweets de Chile geo-etiquetados del 2012 al 2017.
 
