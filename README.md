@@ -56,3 +56,4 @@ Repositorio del curso Introducción a la Minería de Datos dictado en el Departa
 10. [Mathematics for Machine Learning](https://t.co/8ut4HxLMbE?amp=1)
 11. [FAISS a library for very fast clustering](https://github.com/facebookresearch/faiss)
 12. [Data Transformation: Standardization vs Normalization](https://www.kdnuggets.com/2020/04/data-transformation-standardization-normalization.html)
+13. [Machine learning sucks at covid by Cory Doctorow](https://pluralistic.net/2021/08/02/autoquack/#gigo)
