@@ -5,7 +5,7 @@ Repositorio del curso Introducción a la Minería de Datos dictado en el Departa
 <!-- * Coordinador: -->
 * Profesores Auxiliares: Alison Fernandez, Cinthia Mabel Sánchez  
 
-* [Playlist de Youtube con videos de clases](https://www.youtube.com/playlist?list=PLppKo85eGXiV4yFfmP0jBdYbaS_YATrH-)
+* [Playlist de Youtube con videos de clases](https://www.youtube.com/playlist?list=PLKUV14d0mKnUXXfmhqqZdcsNGAuV2GZda)
 
 * [Reglas del Curso Otoño 2021](reglas_curso.md)
 
