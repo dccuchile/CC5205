@@ -25,9 +25,7 @@ El curso tiene las siguientes Unidades.
 
 
 
-Para las primeras 4 unidades habrá un tutorial dictado por un profesor auxiliar de manera síncrona por Zoom. El video de la clase será compartido a los alumnos.
-
-
+Para las primeras 4 unidades habrá un tutorial que será subido la semana anterior a la realización del laboratorio.
 
 
 
@@ -37,13 +35,15 @@ El curso consta de dos tipos de evaluaciones.
 
 
 
-### Tareas Formativas
+### Laboratorios Formativos
 
 
 
-Una tarea formativa para las 4 primeras unidades. Habrá una tarea recuperativa sobre la unidad 5 para reemplazar la peor nota o inasistencias. El plazo de entrega será de dos semanas por tarea con un punto de descuento por día de atraso.
+Dos laboratorios formativos para las 4 primeras unidades (excepto el laboratorio 4). Habrá un laboratorio recuperativo sobre la unidad 5 para reemplazar la peor nota o inasistencias. 
 
-Estas tareas tienen preguntas teóricas simples y partes de programación.
+El laboratorio está pensado para ser realizado durante el horario de clases, es decir, aproximadamente 1 hora. Sin embargo, este puede ser entregado hasta las 23:59 del mismo día. Durante el horario de cátedra del día del laboratorio, los auxiliares estarán conectados en una sala de discord por cualquier duda que presenten.
+
+Estas actividades tienen preguntas teóricas simples y partes de programación.
 
 Estas actividades deben realizarse en grupos de 2 personas. 
 
@@ -68,11 +68,11 @@ Tienen una 1 semana para atrasos con descuentos de 0.5 ptos a la nota por día.
 
 
 
-• Hay Nota Proyecto (NP) y Nota Tareas (NT)
+• Hay Nota Proyecto (NP) y Nota Laboratorios (NL)
 
-• Nota Final = NP * 0,4 + NT * 0,6
+• Nota Final = NP * 0,4 + NL * 0,6
 
-• Nota Tareas = Promedio (MEJOR4(T1,T2,T3,T4,TR)) 
+• Nota Laboratorio = Promedio (MEJOR4(L1,L2,L3,L4,LR)) . Cada laboratorio se promedia respecto a las 2 partes que lo conforman.
 
 • Nota Proyecto =  0.3 * H1 + 0.2 * H2 + 0.5 * H3   
 
@@ -83,4 +83,4 @@ Tienen una 1 semana para atrasos con descuentos de 0.5 ptos a la nota por día.
 
 1) NP >= 4.0 y NT >= 4.0
 
-2) Las tareas pueden ser en parejas, no se admiten copias entre secciones ni entre grupos (motivo de nota final tareas = 1.0)
+2) Los laboratorios pueden ser en parejas, no se admiten copias entre secciones ni entre grupos (motivo de nota final tareas = 1.0)
