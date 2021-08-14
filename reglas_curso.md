@@ -1,7 +1,7 @@
 # Reglas del Curso
 
 
-El curso tiene cátedras asíncronas publicadas en el [Github](https://github.com/dccuchile/CC5206/) del curso. Los videos quedarán disponibles en la playlist de [Youtube](https://www.youtube.com/playlist?list=PLppKo85eGXiV4yFfmP0jBdYbaS_YATrH-). 
+El curso tiene cátedras asíncronas publicadas en el [Github](https://github.com/dccuchile/CC5206/) del curso. Los videos quedarán disponibles en la playlist de [Youtube](https://youtube.com/playlist?list=PLKUV14d0mKnUXXfmhqqZdcsNGAuV2GZda). 
 
 
 
