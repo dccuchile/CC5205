@@ -8,7 +8,7 @@ Repositorio del curso Introducción a la Minería de Datos dictado en el Departa
 
 * [Playlist de Youtube con videos de clases](https://www.youtube.com/playlist?list=PLKUV14d0mKnUXXfmhqqZdcsNGAuV2GZda)
 
-* [Reglas del Curso Otoño 2021](reglas_curso.md)
+* [Reglas del Curso Primavera 2021](reglas_curso.md)
 
 * [Sugerencias de Proyecto](sugerencias_proyecto.md)
 
