@@ -4,6 +4,7 @@ Repositorio del curso Introducción a la Minería de Datos dictado en el Departa
 * Profesores de Cátedra:  [Hernán Sarmiento](https://scholar.google.com/citations?user=LlvbtQ0AAAAJ&hl=es) y [Andrés Abeliuk](https://aabeliuk.github.io/) 
 <!-- * Coordinador: -->
 * Profesores Auxiliares: Alison Fernandez, Cinthia Mabel Sánchez  
+* Ayudantes: Johnny Godoy, Gabriel Ramos, Cristian Llull, Matías Rojas
 
 * [Playlist de Youtube con videos de clases](https://www.youtube.com/playlist?list=PLKUV14d0mKnUXXfmhqqZdcsNGAuV2GZda)
 
