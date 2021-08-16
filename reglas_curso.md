@@ -81,6 +81,6 @@ Tienen una 1 semana para atrasos con descuentos de 0.5 ptos a la nota por día.
 #### Requisitos de Aprobación  (se deben cumplir TODOS)
 
 
-1) NP >= 4.0 y NT >= 4.0
+1) NP >= 4.0 y NL >= 4.0
 
 2) Los laboratorios pueden ser en parejas, no se admiten copias entre secciones ni entre grupos (motivo de nota final tareas = 1.0)
