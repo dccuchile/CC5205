@@ -1,5 +1,5 @@
-# CC5206
-Repositorio del curso Introducción a la Minería de Datos dictado en el Departamento de Ciencias de la Computación de la Universidad de Chile
+# CC5205
+Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias de la Computación de la Universidad de Chile
 
 * Profesores de Cátedra:  [Hernán Sarmiento](https://scholar.google.com/citations?user=LlvbtQ0AAAAJ&hl=es) y [Andrés Abeliuk](https://aabeliuk.github.io/) 
 <!-- * Coordinador: -->
