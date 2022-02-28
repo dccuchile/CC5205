@@ -33,7 +33,9 @@
 
 - **Tweets relacionados a crisis y desastres**: CrisisNLP es un recurso en el cual investigadores han compartido sus dataset relacionados a situaciones de emergencia, utilizados en sus investigaciones. https://crisisnlp.qcri.org/ 
 
-- **Datos climáticos**: mediciones históricas de Chile respecto a precipitaciones y temperaturas medias y máximas. Buscar en la pestaña de Observaciones. http://www.cr2.cl/
+- **Datos Cambio climáticos Minesterio de Ciencias**: Datos climatológicos recopilados por el minesterio de ciencias. https://github.com/MinCiencia/Datos-CambioClimatico
+
+- **Datos climáticos**: mediciones históricas de Chile respecto a precipitaciones y temperaturas medias y máximas. Buscar en la pestaña de Observaciones. http://www.cr2.cl/ 
 
 - **Caracterizar rendimiento estudiantil en Chile**: promedios de notas anuales de todos los alumnos de Chile con sus respectivos establecimientos desde 2002 hasta 2018. Descargar de http://datos.mineduc.cl/dashboards/19881/informacion-de-rendimiento-academico/ y descripcion de datos en http://datos.mineduc.cl/datasets/175906-er-rendimiento-por-alumno.download/
 
