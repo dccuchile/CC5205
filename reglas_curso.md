@@ -1,7 +1,7 @@
 # Reglas del Curso
 
 
-El curso tiene cátedras asíncronas publicadas en el [Github](https://github.com/dccuchile/CC5206/) del curso. Los videos quedarán disponibles en la playlist de [Youtube](https://youtube.com/playlist?list=PLKUV14d0mKnUXXfmhqqZdcsNGAuV2GZda). 
+El curso sigue una modalidad híbrida entre la presencialidad y lo remoto. Por un lado tendremos clases presenciales sobre los temas más importantes de cada unidad, pero también podran acceder de manera asíncrona al material publicado en el [Github](https://github.com/dccuchile/CC5206/) del curso y las cápsulas de video  disponibles en la playlist de [Youtube](https://www.youtube.com/playlist?list=PLKUV14d0mKnUXXfmhqqZdcsNGAuV2GZda). 
 
 
 
