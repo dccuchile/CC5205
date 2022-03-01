@@ -25,7 +25,7 @@ El curso tiene las siguientes Unidades.
 
 
 
-Para las primeras 4 unidades habrá un tutorial que será subido la semana anterior a la realización del laboratorio.
+Para las primeras 4 unidades habrá un tutorial en vivo por el/la  profexor auxiliar que deben ejecutar y subir la semana anterior a la realización del laboratorio.
 
 
 
