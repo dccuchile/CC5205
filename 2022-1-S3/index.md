@@ -2,7 +2,7 @@
 
 
 
-* Profesores de Cátedra:  [Felipe Bravo-Marquez](https://felipebravom.com) y [Hernán Sarmiento](https://scholar.google.com/citations?user=LlvbtQ0AAAAJ&hl=es) 
+* Profesora de Cátedra:  [Jocelyn Dunstan](https://sites.google.com/view/jdunstan/home) 
 * Profesores Auxiliares:   
 * Ayudantes: 
 
