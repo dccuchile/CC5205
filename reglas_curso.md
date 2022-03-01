@@ -57,7 +57,7 @@ Proyecto (en grupos de 5 personas): evaluado en 3 hitos (o etapas)
 
 • Hito 2: Propuesta de Experimentos y Resultados preliminares. Oportunidad de mejorar el H1. Se entrega un mini informe. 
 
-• Hito 3 : informe final y video final.
+• Hito 3 : informe final y presentación (o video dependiendo de la condición sanitaria).
 
 El informe es incremental y se presenta en formato de una página Web
 
