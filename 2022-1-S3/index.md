@@ -1,4 +1,4 @@
-# Secciones 1 y 2 CC5205 Otoño 2021
+# Sección 3 CC5205 Otoño 2021
 
 
 
