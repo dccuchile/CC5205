@@ -10,6 +10,8 @@
 
 ### **Algunas ideas**
 
+- **Awesome Data Chile**: Lista curada de fuentes de datos públicas sobre Chile recopilada por el IMFD.
+
 - **COVID 19**: Hay varios datasets públicos respecto a la pandemia.
   - [Datos COVID19 Chile - Repositorio de Jorge Pérez](https://github.com/jorgeperezrojas/covid19-data)
   - [COVID19 Global Forecasting](https://www.kaggle.com/c/covid19-global-forecasting-week-1/overview)
