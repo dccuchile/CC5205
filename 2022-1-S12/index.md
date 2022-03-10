@@ -3,8 +3,8 @@
 
 
 * Profesores de Cátedra:  [Felipe Bravo-Marquez](https://felipebravom.com) y [Hernán Sarmiento](https://scholar.google.com/citations?user=LlvbtQ0AAAAJ&hl=es) 
-* Profesores Auxiliares:   
-* Ayudantes: 
+* Profesores Auxiliares:  Cinthia Mabel Sánchez y Jorge Ortiz
+* Ayudantes: Nicolás Canales, Benjamín Farías, Nicolás García y Gabriela Moya.
 
 ## Contenidos Publicados por Semana
 |      Semana      | Fechas        | Actividades                                                  |                            Videos                            |                            Slides                            |
