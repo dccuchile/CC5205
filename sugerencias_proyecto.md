@@ -45,6 +45,8 @@
 
 - **Caracterizar series de anime**: explorar variaciones en el tiempo sobre tópicos de moda, estudios emergentes y gustos de usuarios. Contrastar éxito de series con las personas que trabajaron en esta. Datos generales pueden obtenerlos de https://www.kaggle.com/azathoth42/myanimelist (actualizado a mayo 2018), datos de equipos de producción preguntar a Juan-Pablo (actualizado a septiembre 2017).
 
+-  **Datos publicados en Twitter durante el Estallido Social en Chile dl 2019**: caracterizar mensajes altamente polarizados para entender diferencias o similitudes existentes en la red de interacciones así como en el contenido de estos. Fuente: https://github.com/hsarmiento/chilean_unrest_dataset
+
 #### **Otros temas sugeridos**
 - Dataset de reviews de Amazon: https://www.kaggle.com/bittlingmayer/amazonreviews
 - Dataset de reviews de cervezas: https://www.kaggle.com/rdoume/beerreviews (con texto: http://jmcauley.ucsd.edu/cse255/data/beer/)
