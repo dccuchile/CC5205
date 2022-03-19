@@ -3,8 +3,8 @@
 
 
 * Profesora de Cátedra:  [Jocelyn Dunstan](https://sites.google.com/view/jdunstan/home) 
-* Profesores Auxiliares:   
-* Ayudantes: 
+* Profesores Auxiliares: Alison Fernández y Victor Faraggi.   
+* Ayudantes: Gabriel Iturra y Felipe Arias. 
 
 
 
