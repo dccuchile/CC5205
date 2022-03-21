@@ -41,7 +41,7 @@ El curso consta de dos tipos de evaluaciones.
 
 Dos laboratorios formativos para las 4 primeras unidades (excepto el laboratorio 4). Habrá un laboratorio recuperativo sobre la unidad 5 para reemplazar la peor nota o inasistencias. 
 
-El laboratorio está pensado para ser realizado durante el horario de clases, es decir, aproximadamente 1 hora. Sin embargo, este puede ser entregado hasta las 23:59 del mismo día. Durante el horario de cátedra del día del laboratorio, los auxiliares estarán conectados en una sala de discord por cualquier duda que presenten.
+El laboratorio está pensado para ser realizado durante el horario de clases, es decir, aproximadamente 1 hora. Sin embargo, este puede ser entregado hasta las 23:59 del día siguiente. Durante el horario de cátedra del día del laboratorio, los auxiliares estarán conectados en una sala de discord por cualquier duda que presenten.
 
 Estas actividades tienen preguntas teóricas simples y partes de programación.
 
@@ -61,7 +61,7 @@ Proyecto (en grupos de 5 personas): evaluado en 3 hitos (o etapas)
 
 El informe es incremental y se presenta en formato de una página Web
 
-Tienen una 1 semana para atrasos con descuentos de 0.5 ptos a la nota por día.
+Tienen una 1 semana para atrasos con descuentos de 1 pto a la nota por día.
 
 
 ### Notas
