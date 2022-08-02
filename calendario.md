@@ -2,7 +2,7 @@
 
 
 
-* Profesores de Cátedra:  [Andres Abeliuk]([https://felipebravom.com](https://scholar.google.com/citations?user=qKqH1lcAAAAJ&hl=es&oi=ao)) y [Hernán Sarmiento](https://scholar.google.com/citations?user=LlvbtQ0AAAAJ&hl=es) 
+* Profesores de Cátedra:  [Andres Abeliuk](https://scholar.google.com/citations?user=qKqH1lcAAAAJ&hl=es&oi=ao) y [Hernán Sarmiento](https://scholar.google.com/citations?user=LlvbtQ0AAAAJ&hl=es) 
 * Profesores Auxiliares:  Cinthia Mabel Sánchez y Jorge Ortiz
 * Ayudantes: Nicolás Canales, Benjamín Farías, XX y Gabriela Moya.
 
