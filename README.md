@@ -5,7 +5,7 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 
 * [Reglas del Curso](reglas_curso.md)
 
-* Calendario: [secciones 1 y 2](2022-1-S12/index.md), [sección 3](2022-1-S3/index.md)
+* [Calendario](calendario.md)
 
 * [Sugerencias de Proyecto](sugerencias_proyecto.md)
 
