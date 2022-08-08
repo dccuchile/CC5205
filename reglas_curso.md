@@ -55,7 +55,7 @@ Proyecto (en grupos de 5 personas): evaluado en 3 hitos (o etapas)
 
 • Hito 1: Exploración de un dataset. Se entrega un informe y un video.
 
-• Hito 2: Propuesta de Experimentos y Resultados preliminares. Oportunidad de mejorar el H1. Se entrega un mini informe. 
+• Hito 2: Propuesta de Experimentos y Resultados preliminares. Oportunidad de mejorar el H1. Se realiza breve presentación presencial (por zoom) de 2 minutos y entrega de un mini informe. 
 
 • Hito 3 : informe final y presentación (o video dependiendo de la condición sanitaria).
 
@@ -74,7 +74,7 @@ Tienen una 1 semana para atrasos con descuentos de 1 pto a la nota por día.
 
 • Nota Laboratorio = Promedio (MEJOR4(L1,L2,L3,L4,LR)) . Cada laboratorio se promedia respecto a las 2 partes que lo conforman.
 
-• Nota Proyecto =  0.3 * H1 + 0.2 * H2 + 0.5 * H3   
+• Nota Proyecto =  0.3 * H1 + 0.3 * H2 + 0.4 * H3   
 
 
 
