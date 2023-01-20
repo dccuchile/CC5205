@@ -1,10 +1,10 @@
-# CC5205 Primavera 2022
+# CC5205 Otoño 2023 Sección 3
 
 
 
-* Profesores de Cátedra:  [Andres Abeliuk](https://scholar.google.com/citations?user=qKqH1lcAAAAJ&hl=es&oi=ao) y [Hernán Sarmiento](https://scholar.google.com/citations?user=LlvbtQ0AAAAJ&hl=es) 
-* Profesores Auxiliares:  Cinthia Mabel Sánchez y Jorge Ortiz
-* Ayudantes: Nicolás Canales, Benjamín Farías, Sebastián Tinoco y Gabriela Moya.
+* Profesores de Cátedra:  Jazmine Maldonado
+* Profesores Auxiliares:  
+* Ayudantes: 
 
 ## Contenidos Publicados por Semana
 |  Semana  | Fechas        | Actividades                                                  |                            Videos                            |                            Slides                            |
