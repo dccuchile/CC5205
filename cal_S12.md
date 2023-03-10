@@ -3,8 +3,8 @@
 
 
 * Profesores de Cátedra:  [Felipe Bravo-Marquez](https://felipebravom.com) y [Hernán Sarmiento](https://scholar.google.com/citations?user=LlvbtQ0AAAAJ&hl=es) 
-* Profesores Auxiliares: 
-* Ayudantes: 
+* Profesores Auxiliares: [Gabriel Iturra](https://giturra.cl/) y María José Zambrano
+* Ayudantes: Benjamín Farías, Johnny Godoy, Nahuel Gómez y Canela Orellana
 
 ## Contenidos Publicados por Semana
 |  Semana  | Fechas        | Actividades                                                  |                            Videos                            |                            Slides                            |
