@@ -9,15 +9,13 @@ El curso tiene las siguientes Unidades.
 
 1. Exploración de Datos
 
-2. Clasificación Parte I
+2. Clasificación 
 
-3. Clasificación Parte II
+3. Clustering
 
-4. Clustering
+4. Reglas de Asociación.
 
-5. Reglas de Asociación.
-
-6. Temas avanzados (privacidad, regresiones, selección y reducción de atributos)
+5. Temas avanzados (privacidad, regresiones, selección y reducción de atributos)
 
 
 
