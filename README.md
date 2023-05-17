@@ -57,6 +57,8 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 
 1. [Material Extra 3: Clustering de Series de Tiempo](slides/me3_clustering_series_tiempo.pdf)
 
+1. [Material Extra 4: Clustering - Casos de Estudio](slides/me4_clustering_estudios.pdf)
+
  
 
 ## Links
