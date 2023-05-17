@@ -23,7 +23,7 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 
 1. [Clase 3: Datos II ](slides/Clase_4_datos_II.pdf), [video 1](https://youtu.be/dna-cTk8x8Q), [video 2](https://youtu.be/eOeO0j66z48), [video 3](https://youtu.be/5WCvDjMnVCA)
 
-1. [Clase 4: Exploración de Datos en R](slides/Clase_3_explora.pdf), [video 1](https://youtu.be/uR72B2V8D2I), [video 2](https://youtu.be/LA_HD9g-oDc), [video 3](https://youtu.be/StnwJITvXZ8), [video 4](https://youtu.be/Rt4n5Wzp6T8) 
+1. [Clase 4: Exploración Exploratorio de Datos](slides/Clase_3_explora.pdf), [video 1](https://youtu.be/uR72B2V8D2I), [video 2](https://youtu.be/LA_HD9g-oDc), [video 3](https://youtu.be/StnwJITvXZ8), [video 4](https://youtu.be/Rt4n5Wzp6T8) 
 
 1. [Clase 5: Clasificación I](slides/Clase_5_clasi_I.pdf),  [video 1](https://youtu.be/7amHLK32KI0), [video 2](https://youtu.be/aTYfUO9H8zo) 
 
