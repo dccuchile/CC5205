@@ -64,6 +64,8 @@ Tienen una 1 semana para atrasos con descuentos de 1 pto a la nota por día.
 
 • Nota Final = NP * 0,4 + NL * 0,45 + NCL * 0,15
 
+• Nota Controles de Lectura = Promedio (MEJOR4(CL1,CL2,CL3,CL4,CLR)). Cada nota se promedia respecto a las 2 partes que lo conforman.
+
 • Nota Laboratorio = Promedio (MEJOR4(L1,L2,L3,L4,LR)). Cada laboratorio se promedia respecto a las 2 partes que lo conforman.
 
 • Nota Proyecto =  0.3 * H1 + 0.3 * H2 + 0.4 * H3   
