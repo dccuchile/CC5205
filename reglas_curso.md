@@ -19,7 +19,7 @@ El curso tiene las siguientes Unidades.
 
 ## Evaluaciones
 
-El curso consta de dos tipos de evaluaciones.
+El curso consta de tres tipos de evaluaciones.
 
 
 ### Laboratorios Formativos
@@ -39,7 +39,9 @@ Antes de cada laboratorio se realizará un control de lectura en el que se pregu
 
 Consiste de 1 o 2 preguntas escritas, sin apuntes. 
 
-Se rinde y se entrega durante los 15 primeros minutos de la clase auxiliar. El control de lectura es individual. 
+Se rinde y se entrega durante los 15 primeros minutos de la clase auxiliar. 
+
+El control de lectura es individual. 
 
 ### Proyecto
 
