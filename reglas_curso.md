@@ -41,7 +41,7 @@ Consiste de 1 o 2 preguntas escritas, sin apuntes.
 
 Se rinde y se entrega durante los 15 primeros minutos de la clase auxiliar. 
 
-El control de lectura es individual. 
+El control de lectura es individual y presencial. 
 
 ### Proyecto
 
