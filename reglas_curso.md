@@ -25,9 +25,9 @@ El curso consta de tres tipos de evaluaciones.
 ### Laboratorios Formativos
 
 
-Laboratorios formativos para las 4 primeras unidades. Los primeros 4 laboratorios (excepto el laboratorio 2) se componen de dos partes. Habrá un laboratorio recuperativo sobre la unidad 5 para reemplazar la peor nota o inasistencias.
+Laboratorios formativos para las 4 primeras unidades. Los primeros 4 laboratorios (excepto el laboratorio 2) se componen de dos partes. Habrá un laboratorio recuperativo sobre la unidad 5 para reemplazar la peor nota.
 
-El laboratorio está pensado para ser realizado durante el horario de clases, es decir, aproximadamente 1 hora. Sin embargo, este puede ser entregado hasta las 23:59 del día del laboratorio. El laboratorio se realiza en formato presencial.
+El laboratorio está pensado para ser realizado durante el horario de clases, es decir, aproximadamente 1 hora. Sin embargo, este puede ser entregado hasta las 23:59 del día del laboratorio. El laboratorio se realiza en formato presencial. No obstante, este puede completarse después del horario. 
 
 El laboratorio incluye problemas de programación en las que aplicarán el contenido práctico visto en clases.
 
