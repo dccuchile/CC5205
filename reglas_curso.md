@@ -43,6 +43,8 @@ Se rinde y se entrega durante los 15 primeros minutos de la clase auxiliar.
 
 El control de lectura es individual y presencial. 
 
+**Nota:** Inasistencias previsibles deben ser informadas y justificadas a las profesoras con un mínimo de 2 semanas de anticipación (en caso de ser por viaje, por ejemplo). Inasistencias imprevistas deben ser justificadas igual que como lo haría al faltar a un control (por ejemplo en caso de enfermedad con un certificado médico).
+
 ### Proyecto
 
 Proyecto (en grupos de 5 personas): evaluado en 3 hitos (o etapas)
