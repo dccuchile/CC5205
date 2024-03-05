@@ -9,7 +9,14 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 
 * [Sugerencias de Proyecto](sugerencias_proyecto.md)
 
-* Curso diseñado por: [Bárbara Poblete](https://www.barbara.cl/) y [Felipe Bravo-Marquez](https://felipebravom.com/) 
+* El material de este curso ha estado en constante actualización. Durante este proceso han participado
+  *  [Bárbara Poblete](https://www.barbara.cl/) (creadora del curso original)
+  *  [Felipe Bravo-Marquez](https://felipebravom.com/) 
+  * Andrés Abeliuk
+  * Hernán Sarmiento
+  * Jazmine Maldonado
+  * Cinthia Sánchez
+
 
 
 
@@ -24,7 +31,7 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 1. [Clase 4: Introducción a la Clasificación - Framework y Evaluación](https://docs.google.com/presentation/d/1LQACwkAg4EKFXtt3Qp-3Y3ay-LA8HXtZ4H5kU_Oo1FM/edit?usp=sharing) 
 
 1. [Clase 5: Algoritmos de clasificación - Árboles, KNN, Naive Bayes](https://docs.google.com/presentation/d/1_fQRS2SJ4YbhAsCfdPQ2kTK9FpUm5Gi67VD6SMBlDFs/edit?usp=sharing)
- 
+
 1. [Clase 6: Modelos Lineales - Regresión y Clasificación](https://docs.google.com/presentation/d/1jALKFpQuO2BYJLyDZLW_Zyd6ezwDF0IVpDGc5MCzf88/edit?usp=sharing)
 
 1. [Clase 7: Support Vector Machines](https://docs.google.com/presentation/d/1LXNL3rfG3JhoYeA5ApF1KNSVPbGCjC5zInrl2C3IG-c/edit?usp=sharing)
@@ -51,7 +58,7 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 1. [Material Extra 5: Privacidad en Minería de Datos](https://docs.google.com/presentation/d/1S-GyLw0_svkTF-RAdxq6EgedP29qCk1qzNrQ7Z5Le2I/edit?usp=sharing)
 
 1. [Material Extra 6: Minería de Reglas de Asociación](https://docs.google.com/presentation/d/1Ooy-I9WKhwAzJSvcBxiaqXLbP0i5JVQRWY0R_rYuSH0/edit?usp=sharing)
- 
+
 1. [Material Extra 7: Ética en Datos](https://docs.google.com/presentation/d/1dqH-EC7Th1dInc1cU6qnqq4y-BKs_GdPRndzFbik0dI/edit?usp=sharing)
 
 1. [Material Extra 8: Ética en Machine Learning - Identificando riesgos y estrategias de mitigación](https://docs.google.com/presentation/d/1o2hfLJNxqkEfWd9GCubCrWeDaCtz3YKxaGne8rod9cc/edit?usp=sharing)
