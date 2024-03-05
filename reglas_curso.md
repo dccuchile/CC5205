@@ -1,20 +1,16 @@
 # Reglas del Curso
 
 
-El curso sigue una modalidad híbrida entre la presencialidad y lo remoto. Por un lado tendremos clases presenciales sobre los temas más importantes de cada unidad, pero también podran acceder de manera asíncrona al material publicado en el [Github](https://github.com/dccuchile/CC5206/) del curso y las cápsulas de video  disponibles en la playlist de [Youtube](https://www.youtube.com/playlist?list=PLKUV14d0mKnUXXfmhqqZdcsNGAuV2GZda). 
+El curso sigue una modalidad presencial con apoyo de ciertas actividades remotas. Podrán acceder de manera asíncrona al material publicado en el [Github](https://github.com/dccuchile/CC5206/) del curso y las cápsulas de video  disponibles en la playlist de [Youtube](https://www.youtube.com/playlist?list=PLKUV14d0mKnUXXfmhqqZdcsNGAuV2GZda).  Nota: las cápsulas de video no se encuentran actualizadas.
 
 
 El curso tiene las siguientes Unidades.
 
 1. Exploración de Datos
-
-2. Reglas de Asociación.
-
-3. Clasificación 
-
-4. Clustering
-
-5. Temas avanzados (privacidad, redes neuronales, etica)
+2. Aprendizaje Supervisado: Clasificación y Regresión 
+3. Clustering
+4. Temas Avanzados: Selección y Reducción de Atributos, Redes Neuronales
+5. Otros temas que pueden variar en cada semestre ( privacidad, interpretabilidad,  ética)
 
 
 ## Evaluaciones
@@ -25,7 +21,7 @@ El curso consta de tres tipos de evaluaciones.
 ### Laboratorios Formativos
 
 
-Laboratorios formativos para las 4 primeras unidades. Los primeros 4 laboratorios (excepto el laboratorio 2) se componen de dos partes. Habrá un laboratorio recuperativo sobre la unidad 5 para reemplazar la peor nota.
+Siete laboratorios formativos y un laboratorio recuperativo para reemplazar la peor nota.
 
 El laboratorio está pensado para ser realizado durante el horario de clases, es decir, aproximadamente 1 hora. Sin embargo, este puede ser entregado hasta las 23:59 del día del laboratorio. El laboratorio se realiza en formato presencial. No obstante, este puede completarse después del horario. 
 
@@ -33,9 +29,9 @@ El laboratorio incluye problemas de programación en las que aplicarán el conte
 
 Estas actividades deben realizarse en grupos de 2 personas. 
 
-### Controles de Lectura
+### Mini-Controles
 
-Antes de cada laboratorio se realizará un control de lectura en el que se preguntarán aspectos teóricos o conceptos vistos en las clases previas. 
+Antes de cada laboratorio se realizará un mini-control en el que se preguntarán aspectos teóricos o conceptos vistos en las clases previas. 
 
 Consiste de 1 o 2 preguntas escritas, sin apuntes. 
 
@@ -62,13 +58,13 @@ Tienen una 1 semana para atrasos con descuentos de 1 pto a la nota por día.
 
 ### Notas
 
-• Hay: Nota Proyecto (NP), Nota Laboratorios (NL) y Nota de Controles de Lectura (NCL)
+• Hay: Nota Proyecto (NP), Nota Laboratorios (NL) y Nota de mini-controles (NC)
 
-• Nota Final = NP * 0,4 + NL * 0,45 + NCL * 0,15
+• Nota Final = NP * 0,4 + NL * 0,45 + NC * 0,15
 
-• Nota Controles de Lectura = Promedio (MEJOR4(CL1,CL2,CL3,CL4,CLR)). Cada nota se promedia respecto a las 2 partes que lo conforman.
+• Nota Mini Controles = Promedio (MEJOR7(C1,C2,C3,C4,...,CR)). 
 
-• Nota Laboratorio = Promedio (MEJOR4(L1,L2,L3,L4,LR)). Cada laboratorio se promedia respecto a las 2 partes que lo conforman.
+ Nota Laboratorio = Promedio (MEJOR7(L1,L2,L3,L4,...,LR)). 
 
 • Nota Proyecto =  0.3 * H1 + 0.3 * H2 + 0.4 * H3   
 
