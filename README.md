@@ -40,17 +40,21 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 
 ### Material Extra
 
-1. [Material Extra 1: Repaso Matemático](slides/me1_repaso_matemático.pdf)
+1. [Material Extra 1: Fundamentos Matemáticos para Minería de Datos y Machine Learning](https://docs.google.com/presentation/d/1aKb91y7uiuweIxdt5PYOCAZPlFPZoWbzMdzWCxuQMH4/edit?usp=sharing)
 
-1. [Material Extra 2: Límites Estadísticos de la Minería de Datos](slides/me2_límites_estadísticos.pdf)
+1. [Material Extra 2: Límites Estadísticos de la Minería de Datos](https://docs.google.com/presentation/d/1PwhgavtGpiRbHXRwi9-mlIANXGyI4n2m2p1JlGFPV5U/edit?usp=sharing)
 
-1. [Material Extra 3: Clustering de Series de Tiempo](slides/me3_clustering_series_tiempo.pdf)
+1. [Material Extra 3: Clustering de Series de Tiempo](https://docs.google.com/presentation/d/1SN866ZwZriiy0LXWBF81QveoLTjgkd3lXgtu5i5a0so/edit?usp=sharing)
 
-1. [Material Extra 4: Clustering - Casos de Estudio](slides/me4_clustering_estudios.pdf)
+1. [Material Extra 4: Clustering - Casos de Estudio](https://docs.google.com/presentation/d/19cYVktPQvgjrnGH5a2gqVDvrD9g0XmdNBl0A30X_uxQ/edit?usp=sharing)
 
-1. [Material Extra 5: Privacidad en Minería de Datos](slides/me5_privacidad.pdf)
+1. [Material Extra 5: Privacidad en Minería de Datos](https://docs.google.com/presentation/d/1S-GyLw0_svkTF-RAdxq6EgedP29qCk1qzNrQ7Z5Le2I/edit?usp=sharing)
 
+1. [Material Extra 6: Minería de Reglas de Asociación](https://docs.google.com/presentation/d/1Ooy-I9WKhwAzJSvcBxiaqXLbP0i5JVQRWY0R_rYuSH0/edit?usp=sharing)
  
+1. [Material Extra 7: Ética en Datos](https://docs.google.com/presentation/d/1dqH-EC7Th1dInc1cU6qnqq4y-BKs_GdPRndzFbik0dI/edit?usp=sharing)
+
+1. [Material Extra 8: Ética en Machine Learning - Identificando riesgos y estrategias de mitigación](https://docs.google.com/presentation/d/1o2hfLJNxqkEfWd9GCubCrWeDaCtz3YKxaGne8rod9cc/edit?usp=sharing)
 
 ## Links
 
