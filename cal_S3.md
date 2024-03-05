@@ -1,0 +1,30 @@
+# CC5205 Otoño 2024 Secciones 1 y 2
+
+
+
+* Profesores de Cátedra:  [Gabirel Iturra]() y [María José Zambrano]()
+* Profesores Auxiliares: 
+* Ayudantes:
+
+## Contenidos Publicados por Semana
+
+|  Semana  | Fechas        | Actividades                                                  |                            Slides                            |
+| :------: | :------------ | :----------------------------------------------------------- | :----------------------------------------------------------: |
+|    1     | 11/03 - 17/03 | **Lunes 11/03 - 12:00 hrs**: Presentación curso **(GI y MJ Presencial)** <br/>**Viernes 15/03 - 12:00 hrs** : Introducción **(MJ presencial)** | <a href="#"><img src="https://www.hiddenjunglecusco.com/wp-content/uploads/2019/11/PDF-Logo.png" width="16px" height="16px"></a>[Introducción Motivación](slides/Clase_1_Introduccion_motivacion.pdf)<br/> |
+|    2     | 18/03 - 24/03 | **Lunes 18/03 - 12:00 hrs:** Datos  **(presencial)**<br/>**Viernes 22/03 - 12:00 hrs:** Explicación Proyecto **( online/zoom)**<br/> | <a href="#"><img src="https://www.hiddenjunglecusco.com/wp-content/uploads/2019/11/PDF-Logo.png" width="16px" height="16px"></a> [Datos I](slides/Clase_2_datos_I.pdf)<br/><img src="https://www.hiddenjunglecusco.com/wp-content/uploads/2019/11/PDF-Logo.png" width="16px" height="16px">[Datos II](slides/Clase_4_datos_II.pdf)<br/> |
+|    3     | 25/03 - 31/03 | **Lunes 25/03 - 12:00 hrs**: Exploración de datos **( Presencial)**.<br/>**Lunes 25/03 - 14:30 hrs: Laboratorio 1 ** <br/> |                                                              |
+|    4     | 01/04-07/04   | **Lunes 01/04 - 12:00:** Clasificación Intro **( presencial)** <br/>**Lunes 01/04 - 14:30 hrs** : Laboratorio 2 <br/> | <a href="#"><img src="https://www.hiddenjunglecusco.com/wp-content/uploads/2019/11/PDF-Logo.png" width="16px" height="16px"></a>[Clasificación I](slides/Clase_5_clasi_I.pdf) <br/><a href="#"><img src="https://www.hiddenjunglecusco.com/wp-content/uploads/2019/11/PDF-Logo.png" width="16px" height="16px"></a>[Clasificación II](slides/Clase_6_clasi_frame.pdf)<br/> |
+|    5     | 08/04-14/04   | **Lunes 08/04 - 12:00 hrs:** Clasificación Árboles, KNN, Bayes **( presencial)**<br/> | <a href="#"><img src="https://www.hiddenjunglecusco.com/wp-content/uploads/2019/11/PDF-Logo.png" width="16px" height="16px"></a>[Clasificación V](https://prezi.com/r6xefyatyuwg/information-credibility-on-twitter/)<br/> |
+|    6     | 15/04 - 21/04 | **Lunes 15/04 - 12:00:** Clasificación, Regresión - Modelos Lineales  **( presencial)**<br/>**Viernes 19/04: Entrega Hito 1 y mini presentación (presencial)** | <a href="#"><img src="https://www.hiddenjunglecusco.com/wp-content/uploads/2019/11/PDF-Logo.png" width="16px" height="16px"></a>[Clasificación III](slides/Clase_7_clasi_algo.pdf)<br/><a href="#"><img src="https://www.hiddenjunglecusco.com/wp-content/uploads/2019/11/PDF-Logo.png" width="16px" height="16px"></a>[Clasificación IV](slides/Clase_8_clasi_SVM.pdf)<br/> |
+|    7     | 22/04 28/04   | **Viernes 22/04 - 12:00 hrs:** Clasificación  - Support Vector Machines **( Presencial)**<br/><br/>**Lunes 22/04 - 14:30**: **Laboratorio 3 ** <br/>**Viernes 26/04 - 12:00 hrs: Explicación Hito 2 (online/Zoom)**<br/> |                                                              |
+|          | 29/05 - 05/05 | **RECESO ACADÉMICO**                                         |                                                              |
+|    8     | 06/05-12/05   | **Lunes 06/05**: Clustering  **( presencial)**<br/> **Lunes 06/05 - 14:30 hrs: Laboratorio 4** <br/> | <a href="#"><img src="https://www.hiddenjunglecusco.com/wp-content/uploads/2019/11/PDF-Logo.png" width="16px" height="16px"></a>[Clustering I](slides/Clase_10_clustering_intro.pdf)<br/> |
+|    9     | 13/05-19/05   | **Lunes 13/05 - 12:00 hrs:** Clustering, Evaluación **( presencial)** <br/> | <a href="#"><img src="https://www.hiddenjunglecusco.com/wp-content/uploads/2019/11/PDF-Logo.png" width="16px" height="16px"></a>[Clustering II](slides/Clase_11_alg_clustering.pdf)<br/> |
+|    10    | 20/05-26/05   | **Lunes 20/05 - 14:30 hrs: Laboratorio 5**  <br/>            | <a href="#"><img src="https://www.hiddenjunglecusco.com/wp-content/uploads/2019/11/PDF-Logo.png" width="16px" height="16px"></a>[Clustering III](slides/Clase_12_validacion_clustering.pdf)<br/> |
+|    11    | 27/05 - 02/06 | **Lunes 27/05 - 12:00 hrs: Trabajo en proyecto/ Sesión de consultas por Discord** <br/>**Lunes 27/05 - 14:30 hrs:** **Laboratorio 6 **<br/> |                                                              |
+|    12    | 03/06 - 09/06 | **Lunes 03/06 - 14:30 hrs: Entrega Hito 2 y mini-presentación (en persona/sala)**<br/>**Viernes 07/06: Feriado** |                                                              |
+|    13    | 10/06-16/06   | **Lunes 10/06 - 12:00 hrs:** Selección y Reducción de Atributos  **( presencial)**.<br/> | <a href="#"><img src="https://www.hiddenjunglecusco.com/wp-content/uploads/2019/11/PDF-Logo.png" width="16px" height="16px"></a>[Selección y Reducción de Atributos](slides/Clase_15_atributos.pdf)<br/> |
+|          | 17/06 - 23/06 | **RECESO ACADÉMICO**                                         |                                                              |
+|    14    | 24/06-30/06   | **Lunes 24/06 - 12:00 hrs:** Redes Neuronales **( presencial)**<br/>**Lunes 24/06 - 14:30 hrs:** **Laboratorio 7** <br/> | <a href="#"><img src="https://www.hiddenjunglecusco.com/wp-content/uploads/2019/11/PDF-Logo.png" width="16px" height="16px"></a>[Modelos Lineales y Redes Neuronales](slides/Clase_16_regresiones.pdf) |
+|    15    | 01/07-07/07   | **Lunes 01/07 - 14:30: Laboratorio Recuperativo**<br/>       |                                                              |
+| Exámenes | 08/07-20/07   | **Lunes: Entrega Hito 3  + Presentaciones finales**<br/>     |                                                              |
