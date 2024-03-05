@@ -2,7 +2,7 @@
 
 
 
-* Profesores de Cátedra:  [Gabirel Iturra]() y [María José Zambrano]()
+* Profesores de Cátedra:  [Gabirel Iturra](https://giturra.cl/) y [María José Zambrano](https://github.com/mzambrano1)
 * Profesores Auxiliares: 
 * Ayudantes:
 
