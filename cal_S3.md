@@ -1,4 +1,4 @@
-# CC5205 Otoño 2024 Secciones 1 y 2
+# CC5205 Otoño 2024 Sección 3
 
 
 
