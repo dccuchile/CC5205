@@ -3,8 +3,8 @@
 
 
 * Profesores de Cátedra:  [Felipe Bravo-Marquez](https://felipebravom.com) y [Valentin Barriere](https://dcc.uchile.cl/pregrado/academico/valentin-barriere)
-* Profesores Auxiliares: 
-* Ayudantes:
+* Profesores Auxiliares:  Lucas Carrasco y Benjamín Farías
+* Ayudantes:  Tomás Aguirre, Vicente Bórquez, Diana Escobar, Javiera Labrín, Paola López y Bastián Pezoa
 
 ## Contenidos Publicados por Semana
 
