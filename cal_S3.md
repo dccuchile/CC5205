@@ -3,8 +3,8 @@
 
 
 * Profesores de Cátedra:  [Gabriel Iturra-Bocaz](https://giturra.cl/) y [María José Zambrano](https://github.com/mzambrano1)
-* Profesores Auxiliares: 
-* Ayudantes:
+* Profesor Auxiliar:  Fran Zautzik
+* Ayudantes: Nicolás Cabello, Nicolás Herrera, Canela Orellana
 
 ## Contenidos Publicados por Semana
 
