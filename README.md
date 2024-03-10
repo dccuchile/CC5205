@@ -14,10 +14,10 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 * El material de este curso ha estado en constante actualización. Durante este proceso han participado
   *  [Bárbara Poblete](https://www.barbara.cl/) (creadora del curso original)
   *  [Felipe Bravo-Marquez](https://felipebravom.com/) 
-  * Andrés Abeliuk
-  * Hernán Sarmiento
-  * Jazmine Maldonado
-  * Cinthia Sánchez
+  * [Andrés Abeliuk](https://aabeliuk.github.io/)
+  * [Hernán Sarmiento](https://scholar.google.com/citations?user=LlvbtQ0AAAAJ&hl=es)
+  * [Jazmine Maldonado](https://www.linkedin.com/in/jazminemf/)
+  * [Cinthia Sánchez](https://users.dcc.uchile.cl/~cisanche/)
 
 
 
