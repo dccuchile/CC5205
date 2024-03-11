@@ -37,9 +37,11 @@ Consiste de 1 o 2 preguntas escritas, sin apuntes.
 
 Se rinde y se entrega durante los 15 primeros minutos de la clase auxiliar. 
 
-El control de lectura es individual y presencial. 
+El mini-control de lectura es individual y presencial.  
 
-**Nota:** Inasistencias previsibles deben ser informadas y justificadas a las profesoras con un mínimo de 2 semanas de anticipación (en caso de ser por viaje, por ejemplo). Inasistencias imprevistas deben ser justificadas igual que como lo haría al faltar a un control (por ejemplo en caso de enfermedad con un certificado médico).
+El laboratorio recuperativo también contempla un mini-control recuperativo.
+
+**Nota:** sólo se considerarán los mecanismos formales de la escuela para inasistencias. 
 
 ### Proyecto
 
