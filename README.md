@@ -70,7 +70,7 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 1. [Libro: Introduction to Data Mining (Second Edition)](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)
 2. [Repositorio antiguo del curso por Mauricio Quezada](https://github.com/mquezada/uchile-cc5206)
 3. [Proyectos de años anteriores](https://prisma.dcc.uchile.cl/cursoMD/)
-3. [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow: Notebooks](https://github.com/ageron/handson-ml2)
+3. [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow: Notebooks](https://github.com/ageron/handson-ml3)
 4. [Perfil de Hans Rosling en TED](https://www.ted.com/speakers/hans_rosling)
 5. [Python Machine Learning book code repository](https://github.com/rasbt/python-machine-learning-book)
 6. [Machine learning examples: A collection of machine learning examples and tutorials](https://github.com/lazyprogrammer/machine_learning_examples)
