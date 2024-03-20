@@ -68,7 +68,7 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 ## Links
 
 1. [Libro: Introduction to Data Mining (Second Edition)](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php), [Software and Tutorials](http://www.cse.msu.edu/~ptan/dmbook/software/)
-2. [Libro: Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow: Notebooks](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) [Notebooks](https://github.com/ageron/handson-ml3)
+2. [Libro: Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow (Third Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) [Notebooks](https://github.com/ageron/handson-ml3)
 3. [Repositorio antiguo del curso por Mauricio Quezada](https://github.com/mquezada/uchile-cc5206)
 4. [Proyectos de años anteriores](https://prisma.dcc.uchile.cl/cursoMD/)
 5. [Perfil de Hans Rosling en TED](https://www.ted.com/speakers/hans_rosling)
