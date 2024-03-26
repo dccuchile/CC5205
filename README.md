@@ -65,6 +65,8 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 
 1. [Material Extra 8: Ética en Machine Learning - Identificando riesgos y estrategias de mitigación](https://docs.google.com/presentation/d/1o2hfLJNxqkEfWd9GCubCrWeDaCtz3YKxaGne8rod9cc/edit?usp=sharing)
 
+1. [Material Extra 9: Grandes Modelos de Lenguaje - Recorrido Histórico](https://docs.google.com/presentation/d/1t8cjmVu4xdSg6197XaOsC2YZIzH7oy4tMl-Yhc6dnHk/edit?usp=sharing)
+
 ## Links
 
 1. [Libro: Introduction to Data Mining (Second Edition)](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php), [Software and Tutorials](http://www.cse.msu.edu/~ptan/dmbook/software/)
