@@ -28,7 +28,7 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 
 1. [Clase 2: Datos](https://docs.google.com/presentation/d/1LluD0OpY3OS9uSgIG7E0cRR8WeVy4A46WmHYERgnqlI/edit?usp=sharing)
 
-1. [Clase 3: Análisis Exploratorio de Datos](https://docs.google.com/presentation/d/16pOVrrTo_4mHuGNVA_z95vFtgc_zkbd2nN3JBeis4fE/edit?usp=sharing) 
+1. [Clase 3: Análisis Exploratorio de Datos](https://docs.google.com/presentation/d/16pOVrrTo_4mHuGNVA_z95vFtgc_zkbd2nN3JBeis4fE/edit?usp=sharing) - [Google colab con los códigos de ejemplo](https://colab.research.google.com/drive/17xaDJJxQQBQtCHK6AMr0hrfvxQBjKTkU?usp=sharing).
 
 1. [Clase 4: Introducción a la Clasificación - Framework y Evaluación](https://docs.google.com/presentation/d/1LQACwkAg4EKFXtt3Qp-3Y3ay-LA8HXtZ4H5kU_Oo1FM/edit?usp=sharing) 
 
