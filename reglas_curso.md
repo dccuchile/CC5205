@@ -76,3 +76,15 @@ Tienen una 1 semana para atrasos con descuentos de 1 pto a la nota por día.
 1) NP >= 4.0 y NL >= 4.0 y NCL >= 4.0
 
 2) Los laboratorios pueden ser en parejas, no se admiten copias entre secciones ni entre grupos (motivo de nota final tareas = 1.0)
+
+### Detalles sobre el mecanismo de reemplazo de Nota en Mini-Control
+
+ El mini-control recuperativo reemplazan automáticamente la peor nota  (incluyendo una ausencia injustificada) sin necesidad de justificación.
+
+ Si se falta a un mini-control y se presenta una justificación formal,  el mini-control recuperativo reemplaza esa ausencia, pero no reemplaza la  peor nota de los mini-controles asistidos o de alguna inasistencia  injustificada.
+
+ Si existen dos o más inasistencias justificadas formalmente, el  mini-control recuperativo reemplaza todas ellas, pero no reemplaza la peor  nota de los mini-controles asistidos o de alguna inasistencia injustificada.
+ 
+ En resumen, piensen bien antes de faltar a un mini-control, porque si después faltan a otro aunque sea justificado, no podrán reemplazar ambas inasistencias con el recuperativo.
+
+Los mecanismos de justificación son los establecidos por la escuela.
