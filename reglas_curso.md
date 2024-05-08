@@ -77,7 +77,7 @@ Tienen una 1 semana para atrasos con descuentos de 1 pto a la nota por día.
 
 2) Los laboratorios pueden ser en parejas, no se admiten copias entre secciones ni entre grupos (motivo de nota final tareas = 1.0)
 
-### Detalles sobre el mecanismo de reemplazo de Nota en Mini-Control
+### Detalles sobre el mecanismo de reemplazo de Nota en Mini-Control con el Recuperativo
 
  El mini-control recuperativo reemplazan automáticamente la peor nota  (incluyendo una ausencia injustificada) sin necesidad de justificación.
 
