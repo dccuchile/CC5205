@@ -23,8 +23,8 @@
 |    10    | 20/05-26/05   | **Lunes 20/05 - 14:30 hrs: Feriado**  <br/>                  |                                                              |
 |    11    | 27/05 - 02/06 | Paro                                                         |                                                              |
 |    12    | 03/06 - 09/06 | Paro                                                         |                                                              |
-|    13    | 10/06-16/06   | Paro <br/>**Viernes 14/06 - 10:15 hrs** : **Entrega Hito 2 y mini-presentación (en persona/sala)** <br/> |                                                              |
+|    13    | 10/06-16/06   | Paro <br/>**Viernes 14/06 - 10:15 hrs** : **Entrega Hito 2 y mini-presentación ** <br/> |                                                              |
 |          | 17/06 - 23/06 | **RECESO ACADÉMICO**                                         |                                                              |
 |    14    | 24/06-30/06   | **Lunes 24/06 - 10:15 hrs:** Selección y Reducción de Atributos  **(GI presencial)**<br/>***\*Viernes 28/06:\****  Entrega Laboratorio 5<br/> | [Selección y Reducción de atributos](https://docs.google.com/presentation/d/1O1hUXQhp8GTPErEhFbpzAempHFVOq6ic8XND4_NgQNw/edit?usp=sharing)<br/> |
-|    15    | 01/07-07/07   | **Lunes 01/07 - 10:15 hrs:** Redes Neuronales **(GI presencial)**<br/>**Viernes 05/07 - 14:30:Mini control 5**<br/> | [Introducción a las Redes Neuronales](https://docs.google.com/presentation/d/1dwRjIucIjHSd5WXzC5KtU1IRQ41ohcT9D3P1JTf4ABI/edit?usp=sharing) <br/> |
+|    15    | 01/07-07/07   | **Lunes 01/07 - 10:15 hrs:** Redes Neuronales **(GI presencial)**<br/>**Viernes 05/07 - 10:15:Mini control 5**<br/> | [Introducción a las Redes Neuronales](https://docs.google.com/presentation/d/1dwRjIucIjHSd5WXzC5KtU1IRQ41ohcT9D3P1JTf4ABI/edit?usp=sharing) <br/> |
 | Exámenes | 08/07-20/07   | **Lunes: Entrega Hito 3  + Presentaciones finales**<br/>     |                                                              |
