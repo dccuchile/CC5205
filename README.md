@@ -18,25 +18,25 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
   * [Hernán Sarmiento](https://scholar.google.com/citations?user=LlvbtQ0AAAAJ&hl=es)
   * [Jazmine Maldonado](https://www.linkedin.com/in/jazminemf/)
   * [Cinthia Sánchez](https://users.dcc.uchile.cl/~cisanche/)
-
+  * [Valentin Barriere](https://dcc.uchile.cl/pregrado/academico/valentin-barriere)
 
 
 
 ## Slides 
 
-1. [Clase 1: Introducción a la Minería de Datos](https://docs.google.com/presentation/d/1zRuJ1TV4PN5RlrFawlbgGtGmmCorKC5hTn_6ZOhBhmE/edit?usp=drive_link)
+1. [Clase 1: Introducción a la Minería de Datos](https://drive.google.com/file/d/1wQgS2ymmROgOiHRkiLqQaqBtvKJCXG_P/view?usp=sharing)
 
-1. [Clase 2: Datos](https://docs.google.com/presentation/d/1LluD0OpY3OS9uSgIG7E0cRR8WeVy4A46WmHYERgnqlI/edit?usp=sharing)
+1. [Clase 2: Datos](https://drive.google.com/file/d/1cgaFdskQDS79cuB1pCdY0CuCJaARLiSo/view?usp=sharing)
 
 1. [Clase 3: Análisis Exploratorio de Datos](https://docs.google.com/presentation/d/16pOVrrTo_4mHuGNVA_z95vFtgc_zkbd2nN3JBeis4fE/edit?usp=sharing) - [Google colab con los códigos de ejemplo](https://colab.research.google.com/drive/17xaDJJxQQBQtCHK6AMr0hrfvxQBjKTkU?usp=sharing).
 
-1. [Clase 4: Introducción a la Clasificación - Framework y Evaluación](https://docs.google.com/presentation/d/1LQACwkAg4EKFXtt3Qp-3Y3ay-LA8HXtZ4H5kU_Oo1FM/edit?usp=sharing) 
+1. [Clase 4: Introducción al Aprendizaje Supervisado](https://drive.google.com/file/d/1Ig0SeBtp_ONIOToj-LL9pomJ2SQwjyVj/view?usp=sharing) 
 
 1. [Clase 5: Algoritmos de clasificación - Árboles, KNN, Naive Bayes](https://docs.google.com/presentation/d/1_fQRS2SJ4YbhAsCfdPQ2kTK9FpUm5Gi67VD6SMBlDFs/edit?usp=sharing)
 
-1. [Clase 6: Modelos Lineales - Regresión y Clasificación](https://docs.google.com/presentation/d/1jALKFpQuO2BYJLyDZLW_Zyd6ezwDF0IVpDGc5MCzf88/edit?usp=sharing)
+1. [Clase 6: Modelos Lineales - Regresión y Clasificación](https://drive.google.com/file/d/1YD8AL7inU1FwseCgSf_4Hv7kyvDZFcJN/view?usp=sharing)
 
-1. [Clase 7: Support Vector Machines](https://docs.google.com/presentation/d/1LXNL3rfG3JhoYeA5ApF1KNSVPbGCjC5zInrl2C3IG-c/edit?usp=sharing)
+1. [Clase 7: Support Vector Machines](https://drive.google.com/file/d/1N8-VqXXLOcOPgDFpuFErKwOuhIduXLJ-/view?usp=sharing)
 
 1. [Clase 8: Clustering - Introducción y Algoritmos](https://docs.google.com/presentation/d/1V1ftUsuiHfdErWeXKWBUP6pOG4DrFWSE3_Af8ULNRcs/edit?usp=sharing)
 
@@ -44,7 +44,7 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 
 1. [Clase 10: Selección y Reducción de atributos](https://docs.google.com/presentation/d/1O1hUXQhp8GTPErEhFbpzAempHFVOq6ic8XND4_NgQNw/edit?usp=sharing)
 
-1. [Clase 11: Introducción a las Redes Neuronales](https://docs.google.com/presentation/d/1dwRjIucIjHSd5WXzC5KtU1IRQ41ohcT9D3P1JTf4ABI/edit?usp=sharing)
+1. [Clase 11: Introducción a las Redes Neuronales](https://drive.google.com/file/d/1VLx0bgLPqKX641CNDV73AP2vd3ie6O2E/view?usp=sharing)
 
 
 ### Material Extra
