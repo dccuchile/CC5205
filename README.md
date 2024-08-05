@@ -1,28 +1,25 @@
 # CC5205
+
 Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias de la Computación de la Universidad de Chile
 
-* [Playlist de Youtube con videos de clases](https://www.youtube.com/playlist?list=PLKUV14d0mKnUXXfmhqqZdcsNGAuV2GZda)
+- [Playlist de Youtube con videos de clases](https://www.youtube.com/playlist?list=PLKUV14d0mKnUXXfmhqqZdcsNGAuV2GZda)
 
-* [Reglas del Curso](reglas_curso.md)
+- [Reglas del Curso](reglas_curso.md)
 
-* [Calendario Secciones 1 y 2](cal_S12.md)
+- [Calendario Secciones 1 y 2](cal_S12.md)
 
-* [Calendario Sección 3](cal_S3.md)
+- [Sugerencias de Proyecto](sugerencias_proyecto.md)
 
-* [Sugerencias de Proyecto](sugerencias_proyecto.md)
+- El material de este curso ha estado en constante actualización. Durante este proceso han participado
+  - [Bárbara Poblete](https://www.barbara.cl/) (creadora del curso original)
+  - [Felipe Bravo-Marquez](https://felipebravom.com/)
+  - [Andrés Abeliuk](https://aabeliuk.github.io/)
+  - [Hernán Sarmiento](https://scholar.google.com/citations?user=LlvbtQ0AAAAJ&hl=es)
+  - [Jazmine Maldonado](https://www.linkedin.com/in/jazminemf/)
+  - [Cinthia Sánchez](https://users.dcc.uchile.cl/~cisanche/)
+  - [Valentin Barriere](https://dcc.uchile.cl/pregrado/academico/valentin-barriere)
 
-* El material de este curso ha estado en constante actualización. Durante este proceso han participado
-  *  [Bárbara Poblete](https://www.barbara.cl/) (creadora del curso original)
-  *  [Felipe Bravo-Marquez](https://felipebravom.com/) 
-  * [Andrés Abeliuk](https://aabeliuk.github.io/)
-  * [Hernán Sarmiento](https://scholar.google.com/citations?user=LlvbtQ0AAAAJ&hl=es)
-  * [Jazmine Maldonado](https://www.linkedin.com/in/jazminemf/)
-  * [Cinthia Sánchez](https://users.dcc.uchile.cl/~cisanche/)
-  * [Valentin Barriere](https://dcc.uchile.cl/pregrado/academico/valentin-barriere)
-
-
-
-## Slides 
+## Slides
 
 1. [Clase 1: Introducción a la Minería de Datos](https://drive.google.com/file/d/1wQgS2ymmROgOiHRkiLqQaqBtvKJCXG_P/view?usp=sharing)
 
@@ -30,7 +27,7 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 
 1. [Clase 3: Análisis Exploratorio de Datos](https://docs.google.com/presentation/d/16pOVrrTo_4mHuGNVA_z95vFtgc_zkbd2nN3JBeis4fE/edit?usp=sharing) - [Google colab con los códigos de ejemplo](https://colab.research.google.com/drive/17xaDJJxQQBQtCHK6AMr0hrfvxQBjKTkU?usp=sharing).
 
-1. [Clase 4: Introducción al Aprendizaje Supervisado](https://drive.google.com/file/d/1Ig0SeBtp_ONIOToj-LL9pomJ2SQwjyVj/view?usp=sharing) 
+1. [Clase 4: Introducción al Aprendizaje Supervisado](https://drive.google.com/file/d/1Ig0SeBtp_ONIOToj-LL9pomJ2SQwjyVj/view?usp=sharing)
 
 1. [Clase 5: Algoritmos de clasificación - Árboles, KNN, Naive Bayes](https://docs.google.com/presentation/d/1_fQRS2SJ4YbhAsCfdPQ2kTK9FpUm5Gi67VD6SMBlDFs/edit?usp=sharing)
 
@@ -45,7 +42,6 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 1. [Clase 10: Selección y Reducción de atributos](https://docs.google.com/presentation/d/1O1hUXQhp8GTPErEhFbpzAempHFVOq6ic8XND4_NgQNw/edit?usp=sharing)
 
 1. [Clase 11: Introducción a las Redes Neuronales](https://drive.google.com/file/d/1VLx0bgLPqKX641CNDV73AP2vd3ie6O2E/view?usp=sharing)
-
 
 ### Material Extra
 
