@@ -62,9 +62,9 @@ Tienen una 1 semana para atrasos con descuentos de 1 pto a la nota por día.
 
 • Nota Mini Controles = Promedio (MEJOR7(C1,C2,C3,C4,...,CR)).
 
-• Nota Proyecto = 0.3 _ H1 + 0.3 _ H2 + 0.4 \* H3
+• Nota Proyecto = 0.3 \* H1 + 0.3 \* H2 + 0.4 \* H3
 
-• Nota Final = NP _ 0,4 + NL _ 0,45 + NC \* 0,15
+• Nota Final = NP \* 0,4 + NL \* 0,45 + NC \* 0,15
 
 #### Requisitos de Aprobación (se deben cumplir TODOS)
 
