@@ -21,7 +21,7 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 
 ## Slides
 
-1. [Clase 1: Introducción a la Minería de Datos](https://drive.google.com/file/d/1wQgS2ymmROgOiHRkiLqQaqBtvKJCXG_P/view?usp=sharing)
+1. [Clase 1: Introducción a la Minería de Datos](https://drive.google.com/file/d/1wQgS2ymmROgOiHRkiLqQaqBtvKJCXG_P/view?usp=sharing) | [Versión 2](https://drive.google.com/file/d/1NV9B1gyENLTCdCrJo4jw9p4YvxS8_DBv/view?usp=sharing)
 
 1. [Clase 2: Datos](https://drive.google.com/file/d/1cgaFdskQDS79cuB1pCdY0CuCJaARLiSo/view?usp=sharing)
 
