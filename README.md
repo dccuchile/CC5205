@@ -29,7 +29,7 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 
 1. [Clase 4: Introducción al Aprendizaje Supervisado](https://drive.google.com/file/d/1Ig0SeBtp_ONIOToj-LL9pomJ2SQwjyVj/view?usp=sharing)
 
-1. [Clase 5: Algoritmos de clasificación - Árboles, KNN, Naive Bayes](https://docs.google.com/presentation/d/1_fQRS2SJ4YbhAsCfdPQ2kTK9FpUm5Gi67VD6SMBlDFs/edit?usp=sharing)
+1. [Clase 5: Algoritmos de clasificación - Árboles, KNN, Naive Bayes](https://docs.google.com/presentation/d/1I6GMbfXhdgdmGe-sdUTjyl4GgfGdr5f48h6F9G1lIJI/edit#slide=id.g24500c4e55d_0_1)
 
 1. [Clase 6: Modelos Lineales - Regresión y Clasificación](https://drive.google.com/file/d/1YD8AL7inU1FwseCgSf_4Hv7kyvDZFcJN/view?usp=sharing)
 
