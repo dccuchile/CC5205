@@ -35,7 +35,7 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 
 1. [Clase 7: Support Vector Machines](https://drive.google.com/file/d/1N8-VqXXLOcOPgDFpuFErKwOuhIduXLJ-/view?usp=sharing)
 
-1. [Clase 8: Clustering - Introducción y Algoritmos](https://docs.google.com/presentation/d/1V1ftUsuiHfdErWeXKWBUP6pOG4DrFWSE3_Af8ULNRcs/edit?usp=sharing)
+1. [Clase 8: Clustering - Introducción y Algoritmos](https://docs.google.com/presentation/d/15v1N-gvjy1kpcH_K3gmsM1qn3bWnbUD3ttt6DMWnD4U/edit?usp=sharing)
 
 1. [Clase 9: Validación de Clusters](https://docs.google.com/presentation/d/137sQ5C68NTj-XMbqYwQSnJ8kCEYqRxAmAhwJQRy6bzU/edit?usp=sharing)
 
