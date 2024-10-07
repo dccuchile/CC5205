@@ -37,7 +37,7 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 
 1. [Clase 8: Clustering - Introducción y Algoritmos](https://docs.google.com/presentation/d/15v1N-gvjy1kpcH_K3gmsM1qn3bWnbUD3ttt6DMWnD4U/edit?usp=sharing)
 
-1. [Clase 9: Validación de Clusters](https://docs.google.com/presentation/d/137sQ5C68NTj-XMbqYwQSnJ8kCEYqRxAmAhwJQRy6bzU/edit?usp=sharing)
+1. [Clase 9: Validación de Clusters](https://docs.google.com/presentation/d/1T96jGSA3SdSsKLZbhx29W4XAsi4AfFEe_cgNKFNqGEM/edit?usp=sharing)
 
 1. [Clase 10: Selección y Reducción de atributos](https://docs.google.com/presentation/d/1O1hUXQhp8GTPErEhFbpzAempHFVOq6ic8XND4_NgQNw/edit?usp=sharing)
 
