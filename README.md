@@ -39,7 +39,7 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 
 1. [Clase 9: Validación de Clusters](https://docs.google.com/presentation/d/1T96jGSA3SdSsKLZbhx29W4XAsi4AfFEe_cgNKFNqGEM/edit?usp=sharing)
 
-1. [Clase 10: Selección y Reducción de atributos](https://docs.google.com/presentation/d/1O1hUXQhp8GTPErEhFbpzAempHFVOq6ic8XND4_NgQNw/edit?usp=sharing)
+1. [Clase 10: Selección y Reducción de atributos](https://docs.google.com/presentation/d/1QiJb2zXmNpOOfd-e_ifNoE9Ga7NgGHKVvUhpNnZgPKg/edit?usp=drive_link)
 
 1. [Clase 11: Introducción a las Redes Neuronales](https://drive.google.com/file/d/1VLx0bgLPqKX641CNDV73AP2vd3ie6O2E/view?usp=sharing)
 
