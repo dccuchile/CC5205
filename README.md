@@ -43,6 +43,8 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 
 1. [Clase 11: Introducción a las Redes Neuronales](https://drive.google.com/file/d/1VLx0bgLPqKX641CNDV73AP2vd3ie6O2E/view?usp=sharing)
 
+1. [Clase 12: Introducción a NLP](https://docs.google.com/presentation/d/106bqvr0bccenSB07WKi4-j-3oKxl5lMfiuRxNawlVvg/edit?usp=sharing)
+
 ### Material Extra
 
 1. [Material Extra 1: Fundamentos Matemáticos para Minería de Datos y Machine Learning](https://docs.google.com/presentation/d/1aKb91y7uiuweIxdt5PYOCAZPlFPZoWbzMdzWCxuQMH4/edit?usp=sharing)
