@@ -18,6 +18,7 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
   - [Jazmine Maldonado](https://www.linkedin.com/in/jazminemf/)
   - [Cinthia Sánchez](https://users.dcc.uchile.cl/~cisanche/)
   - [Valentin Barriere](https://dcc.uchile.cl/pregrado/academico/valentin-barriere)
+  - [Juan José Alegría](https://dcc.uchile.cl/pregrado/academico/juan-alegria)
 
 ## Slides
 
