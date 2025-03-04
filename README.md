@@ -6,7 +6,7 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 
 - [Reglas del Curso](reglas_curso.md)
 
-- [Calendario Secciones 1 y 2](cal_S12.md)
+- [Calendario Secciones 1 y 2 Semestre Otoño 2025](cal_S12_2025-1.md)
 
 - [Sugerencias de Proyecto](sugerencias_proyecto.md)
 
@@ -20,7 +20,7 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
   - [Valentin Barriere](https://dcc.uchile.cl/pregrado/academico/valentin-barriere)
   - [Juan José Alegría](https://dcc.uchile.cl/pregrado/academico/juan-alegria)
 
-## Slides
+## Material Histórico
 
 1. [Clase 1: Introducción a la Minería de Datos](https://drive.google.com/file/d/1wQgS2ymmROgOiHRkiLqQaqBtvKJCXG_P/view?usp=sharing) | [Versión 2](https://drive.google.com/file/d/1NV9B1gyENLTCdCrJo4jw9p4YvxS8_DBv/view?usp=sharing)
 
