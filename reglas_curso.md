@@ -40,13 +40,11 @@ El laboratorio recuperativo también contempla un mini-control recuperativo.
 
 ### Proyecto
 
-Proyecto (en grupos de 5 personas): evaluado en 3 hitos (o etapas)
+Proyecto (en grupos de 5 personas): evaluado en 2 hitos (o etapas) y con 3 sesiones de trabajo presenciales en horario de clases obligatorias.
 
-• Hito 1: Exploración de un dataset. Se entrega un mini informe y se realiza presentación presencial de 3 minutos.
+• Hito 1:  Selección y Exploración de un dataset, Propuesta de Experimentos y Resultados preliminares.  Se entrega un informe y se realiza presentación presencial de 3 minutos.
 
-• Hito 2: Propuesta de Experimentos y Resultados preliminares. Oportunidad de mejorar el H1. Se entrega un mini informe y se realiza presentación presencial de 3 minutos.
-
-• Hito 3 : Informe final y Presentación de 15 minutos.
+• Hito 2 : Informe final y Presentación de 15 minutos.
 
 El informe es incremental y se presenta en formato de una página Web (HTML).
 
@@ -56,13 +54,13 @@ Tienen una 1 semana para atrasos con descuentos de 1 pto a la nota por día.
 
 • Hay: Nota Proyecto (NP), Nota Laboratorios (NL) y Nota de mini-controles (NC)
 
-• La nota de proyecto se divide en nota hito 1 (H1), nota hito 2 (H2) y nota hito 3 (H3). Cada hito incluye además una nota de coevaluación. Si la nota de coevaluación es mayor a 4, entonces vale 20% de la nota del hito. En caso contrario (menor a 4), la nota del hito completo será igual a la nota de coevaluación, previa conversación del cuerpo docente con el grupo.
+• La nota de proyecto se divide en nota hito 1 (H1) y nota hito 2 (H3). Cada hito incluye además una nota de coevaluación. Si la nota de coevaluación es mayor a 4, entonces vale 20% de la nota del hito. En caso contrario (menor a 4), la nota del hito completo será igual a la nota de coevaluación, previa conversación del cuerpo docente con el grupo.
 
 • Nota Laboratorios = Promedio (MEJOR7(L1,L2,L3,L4,...,LR)).
 
 • Nota Mini Controles = Promedio (MEJOR7(C1,C2,C3,C4,...,CR)).
 
-• Nota Proyecto = 0.3 \* H1 + 0.3 \* H2 + 0.4 \* H3
+• Nota Proyecto = 0.4 \* H1 + 0.6 \* H2 
 
 • Nota Final = NP \* 0,4 + NL \* 0,45 + NC \* 0,15
 
