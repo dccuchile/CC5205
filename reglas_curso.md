@@ -14,15 +14,14 @@ El curso tiene las siguientes Unidades.
 
 El curso consta de tres tipos de evaluaciones.
 
-### Laboratorios Formativos
+### Laboratorios formativos
+Hay siete laboratorios formativos y un laboratorio recuperativo para reemplazar la peor nota.
 
-Siete laboratorios formativos y un laboratorio recuperativo para reemplazar la peor nota.
+Se espera que se avance en el laboratorio durante la sesión presencial, pero el plazo de entrega será posterior a esta y se publicará en UCursos.
 
-El laboratorio está pensado para ser realizado durante el horario de clases, es decir, aproximadamente 1 hora. Sin embargo, este puede ser entregado hasta las 23:59 del día del laboratorio. El laboratorio se realiza en formato presencial. No obstante, este puede completarse después del horario.
+El laboratorio incluye problemas de programación en los que se aplicará el contenido visto en clase a conjuntos de datos predefendidos, además de implementaciones de los métodos enseñados en clase.
 
-El laboratorio incluye problemas de programación en las que aplicarán el contenido práctico visto en clases.
-
-Estas actividades deben realizarse en grupos de 2 personas.
+Estas actividades deben realizarse en grupos de dos personas.
 
 ### Mini-Controles
 
