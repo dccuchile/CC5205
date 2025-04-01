@@ -39,7 +39,7 @@ El laboratorio recuperativo también contempla un mini-control recuperativo.
 
 ### Proyecto
 
-Proyecto (en grupos de 5 personas): evaluado en 2 hitos (o etapas) y con 3 sesiones de trabajo presenciales en horario de clases obligatorias.
+Proyecto (en grupos de 5 personas): evaluado en 2 hitos (o etapas) y con **3 sesiones de trabajo presenciales en horario de clases obligatorias**.
 
 • Hito 1:  Selección y Exploración de un dataset, Propuesta de Experimentos y Resultados preliminares.  Se entrega un informe y se realiza presentación presencial de 3 minutos.
 
