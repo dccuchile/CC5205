@@ -39,23 +39,13 @@
 
 - **Datos climáticos**: mediciones históricas de Chile respecto a precipitaciones y temperaturas medias y máximas. Buscar en la pestaña de Observaciones. http://www.cr2.cl/ 
 
-- **Caracterizar rendimiento estudiantil en Chile**: promedios de notas anuales de todos los alumnos de Chile con sus respectivos establecimientos desde 2002 hasta 2018. Descargar de http://datos.mineduc.cl/dashboards/19881/informacion-de-rendimiento-academico/ y descripcion de datos en http://datos.mineduc.cl/datasets/175906-er-rendimiento-por-alumno.download/
-
 - **Analizar interacciones de Github en el tiempo**: interacciones varían desde commits hasta comentarios en issues y forks. https://www.gharchive.org/
-
-- **Caracterizar series de anime**: explorar variaciones en el tiempo sobre tópicos de moda, estudios emergentes y gustos de usuarios. Contrastar éxito de series con las personas que trabajaron en esta. Datos generales pueden obtenerlos de https://www.kaggle.com/azathoth42/myanimelist (actualizado a mayo 2018), datos de equipos de producción preguntar a Juan-Pablo (actualizado a septiembre 2017).
 
 -  **Datos publicados en Twitter durante el Estallido Social en Chile dl 2019**: caracterizar mensajes altamente polarizados para entender diferencias o similitudes existentes en la red de interacciones así como en el contenido de estos. Fuente: https://github.com/hsarmiento/chilean_unrest_dataset
 
 #### **Otros temas sugeridos**
 - Dataset de reviews de Amazon: https://www.kaggle.com/bittlingmayer/amazonreviews
 - Dataset de reviews de cervezas: https://www.kaggle.com/rdoume/beerreviews (con texto: http://jmcauley.ucsd.edu/cse255/data/beer/)
-
-#### **Más temas sugeridos (pedir al cuerpo docente)**
-
-- Tweets de Ataques Terroristas de Manchester y Westminster, ambos ocurridos el 2017.
-- Tweets de Chile geo-etiquetados del 2012 al 2017.
-
 
 #### **Otros datasets disponibles**
 
@@ -71,10 +61,6 @@ Chile:
 - Transparencia Universidad de Chile. http://www.uchile.cl/transparencia
 - Departamento de estadisticas e informacion de salud (SEIS): http://www.deis.cl/descargar-bases-de-datos-2/
 
-APIs:
-- Facebook API. [https://developers.facebook.com](https://developers.facebook.com/)
-- Twitter API. [https://dev.twitter.com](https://dev.twitter.com/)
-
 Otros:
 - Wikipedia Data Dump. https://en.wikipedia.org/wiki/Wikipedia:Database_download
 - Data.gov. [http://www.data.gov](http://www.data.gov/)
@@ -89,3 +75,7 @@ Pidiendo acceso:
 - Datos de cáncer en USA (necesitan pedir acceso): https://seer.cancer.gov/data/access.html
 - Datasets varios (necesitan pedir acceso): https://bigml.com/gallery/datasets
 - Datos de Yelp (necesitan pedir acceso): https://www.yelp.com/dataset
+
+#### **Otros datasets disponibles**
+
+[Sheet con otros datasets](https://docs.google.com/spreadsheets/d/1r9bxCVKcmv2-W_vLOcxEcB5C4g3e5NOMf6DTbRf7-Lk/edit?usp=sharing)

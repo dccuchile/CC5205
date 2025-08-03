@@ -1,10 +1,10 @@
 # Reglas del Curso
 
-El curso sigue una modalidad presencial con apoyo de ciertas actividades remotas. Podrán acceder de manera asíncrona al material publicado en el [Github](https://github.com/dccuchile/CC5206/) del curso y las cápsulas de video disponibles en la playlist de [Youtube](https://www.youtube.com/playlist?list=PLKUV14d0mKnUXXfmhqqZdcsNGAuV2GZda). Nota: las cápsulas de video no se encuentran actualizadas.
+El curso sigue una modalidad presencial con apoyo de ciertas actividades remotas. Podrán acceder de manera asíncrona al material publicado en el [Github](https://github.com/dccuchile/CC5206/) del curso. Otro contenido puede ser encontrado en el [Sitio Web](https://valbarriere.github.io/minerias/) y el [GitHub](https://github.com/valbarriere/CC5205-Mineria-Datos-Content) de Valentin Barriere.
 
 El curso tiene las siguientes Unidades.
 
-1. Exploración de Datos
+1. Datos, Exploracion y Modelizacion
 2. Aprendizaje Supervisado: Clasificación y Regresión
 3. Clustering
 4. Temas Avanzados: Selección y Reducción de Atributos, Redes Neuronales
@@ -22,6 +22,10 @@ Se espera que se avance en el laboratorio durante la sesión presencial, pero el
 El laboratorio incluye problemas de programación en los que se aplicará el contenido visto en clase a conjuntos de datos predefendidos, además de implementaciones de los métodos enseñados en clase.
 
 Estas actividades deben realizarse en grupos de dos personas.
+
+Otros puntos: 
+* Se deben mandar los laboratorios en formato `html`. 
+* Cuando se hace una reclama sobre la nota, no se puede ser mas de 2 semanas despues el dia de rendicion de las notas. 
 
 ### Mini-Controles
 
@@ -41,13 +45,15 @@ El laboratorio recuperativo también contempla un mini-control recuperativo.
 
 Proyecto (en grupos de 5 personas): evaluado en 2 hitos (o etapas) y con **3 sesiones de trabajo presenciales en horario de clases obligatorias**.
 
-• Hito 1:  Selección y Exploración de un dataset, Propuesta de Experimentos y Resultados preliminares.  Se entrega un informe y se realiza presentación presencial de 3 minutos.
+• Hito 1:  Selección y Exploración de un dataset, Propuesta de Experimentos y Resultados preliminares.  Se entrega un informe y se realiza presentación presencial de $N_1$ minutos.
 
-• Hito 2 : Informe final y Presentación de 15 minutos.
+• Hito 2 : Informe final y Presentación de $N_2$ minutos.
 
 El informe es incremental y se presenta en formato de una página Web (HTML).
 
 Tienen una 1 semana para atrasos con descuentos de 1 pto a la nota por día.
+
+Las instrucciones se encontran disponible [aca](https://docs.google.com/document/d/1yg9Z5t9pdo4U67vV_goYncqiK3hzCZGF/edit?usp=sharing&ouid=112762351735054867590&rtpof=true&sd=true). 
 
 ### Notas
 
