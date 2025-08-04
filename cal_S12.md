@@ -1,8 +1,8 @@
 # CC5205 Primavera 2025 Secciónes 1/2
 
-* Profesores de Cátedra: [Juan Jose Alegria](https://dcc.uchile.cl/pregrado/academico/valentin-barriere), [Valentin Barriere](https://dcc.uchile.cl/pregrado/academico/valentin-barriere)
+* Profesores de Cátedra: [Juan Jose Alegria](https://dcc.uchile.cl/pregrado/academico/juan-alegria), [Valentin Barriere](https://dcc.uchile.cl/pregrado/academico/valentin-barriere)
 * Profesores Auxiliares: Giovanni Castiglioni, Matias Miranda
-* Ayudantes: Sebastián Burgueño Merino, Paola López Neira??, Martín Meza, Agustin Solis Meza, Florencia Vargas De los Reyes
+* Ayudantes: Sebastián Burgueño Merino, Martín Meza, Agustin Solis Meza, Florencia Vargas De los Reyes
 
 ## Contenidos Publicados por Semana
 
