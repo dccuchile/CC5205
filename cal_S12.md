@@ -1,4 +1,4 @@
-# CC5205 Primavera 2025 Secciónes 1/2
+# CC5205 Primavera 2025 Secciones 1/2
 
 * Profesores de Cátedra: [Juan Jose Alegria](https://dcc.uchile.cl/pregrado/academico/juan-alegria), [Valentin Barriere](https://dcc.uchile.cl/pregrado/academico/valentin-barriere)
 * Profesores Auxiliares: Giovanni Castiglioni, Matias Miranda
