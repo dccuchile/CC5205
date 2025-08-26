@@ -2,13 +2,13 @@
 
 Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias de la Computación de la Universidad de Chile
 
-- [Playlist de Youtube con videos de clases](https://www.youtube.com/playlist?list=PLKUV14d0mKnUXXfmhqqZdcsNGAuV2GZda)
-
 - [Reglas del Curso](reglas_curso.md)
 
 - [Calendario Secciones 1 y 2 Semestre Otoño 2025](cal_S12.md)
 
 - [Sugerencias de Proyecto](sugerencias_proyecto.md)
+
+- [CheatSheets](https://github.com/valbarriere/CC5205-Mineria-Datos-Content/tree/main/CheatSheets)
 
 - El material de este curso ha estado en constante actualización. Durante este proceso han participado
   - [Bárbara Poblete](https://www.barbara.cl/) (creadora del curso original)
@@ -17,7 +17,7 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
   - [Hernán Sarmiento](https://scholar.google.com/citations?user=LlvbtQ0AAAAJ&hl=es)
   - [Jazmine Maldonado](https://www.linkedin.com/in/jazminemf/)
   - [Cinthia Sánchez](https://users.dcc.uchile.cl/~cisanche/)
-  - [Valentin Barriere](https://dcc.uchile.cl/pregrado/academico/valentin-barriere)
+  - [Valentin Barriere](https://valbarriere.github.io/)
   - [Juan José Alegría](https://dcc.uchile.cl/pregrado/academico/juan-alegria)
 
 ## Material Histórico
@@ -45,6 +45,8 @@ Repositorio del curso Minería de Datos dictado en el Departamento de Ciencias d
 1. [Clase 11: Introducción a las Redes Neuronales](https://drive.google.com/file/d/1VLx0bgLPqKX641CNDV73AP2vd3ie6O2E/view?usp=sharing)
 
 1. [Clase 12: Introducción a NLP](https://docs.google.com/presentation/d/106bqvr0bccenSB07WKi4-j-3oKxl5lMfiuRxNawlVvg/edit?usp=sharing)
+
+- [Playlist de Youtube con videos de clases](https://www.youtube.com/playlist?list=PLKUV14d0mKnUXXfmhqqZdcsNGAuV2GZda)
 
 ### Material Extra
 
