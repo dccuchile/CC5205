@@ -1,6 +1,6 @@
 # CC5205 Otoño 2026 - Secciones 1/2/3
 
-* Profesores de Cátedra: [Mauricio Cerda](https://dcc.uchile.cl/pregrado/academico/mauricio-cerda), [Valentin Barriere](https://dcc.uchile.cl/pregrado/academico/valentin-barriere), [Cinthia Sánchez]([https://dcc.uchile.cl/pregrado/academico/valentin-barriere](https://users.dcc.uchile.cl/~cisanche/))
+* Profesores de Cátedra: [Mauricio Cerda](https://dcc.uchile.cl/pregrado/academico/mauricio-cerda), [Valentin Barriere](https://dcc.uchile.cl/pregrado/academico/valentin-barriere), [Cinthia Sánchez](https://users.dcc.uchile.cl/~cisanche/)
 * Profesores Auxiliares: Yuly Ramírez, Benjamín Farías, Martín Bravo
 * Ayudantes: ??, ??, ??, ??, ??, ??
 
