@@ -8,8 +8,8 @@
 
 |  Semana  | Fechas        | Actividades                                                  |                            Contenido                            |
 | :------: | :------------ | :----------------------------------------------------------- | :----------------------------------------------------------: |
-|    1     | 09/03 - 15/03 | **Viernes 13/03 - 12:00 hrs**: Introducción y Reglas del curso | [Introducción y Motivación]() |
-|    2     | 16/03 - 22/03 | **Lunes 16/03 - 12:00 hrs:** Datos <br/> **Lunes 16/03 - 14:30 hrs:** Explicación Proyecto (Online) <br/> **Viernes 20/03 - 12:00 hrs:** Exploración de datos   | [Datos](https://valbarriere.github.io/minerias/2_datos/) </br> [Exploración de Datos](https://valbarriere.github.io/minerias/3_datos_exp/) |
+|    1     | 09/03 - 15/03 | **Viernes 13/03 - 12:00 hrs**: Introducción y Reglas del curso | [Introducción y Motivación](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/Clase1_Intro.pdf) |
+|    2     | 16/03 - 22/03 | **Lunes 16/03 - 12:00 hrs:** Datos <br/> **Lunes 16/03 - 14:30 hrs:** Explicación Proyecto (Online) <br/> **Viernes 20/03 - 12:00 hrs:** Exploración de datos   | [Datos](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/Clase2_Datos.pdf) </br> [Exploración de Datos](https://valbarriere.github.io/minerias/3_datos_exp/) |
 |    3     | 23/03 - 29/03 | **Lunes 23/03 - 12:00 hrs:** Intro Aprendizaje <br/>**Lunes 23/03 - 14:30 hrs:** Laboratorio 1 <br/>**Viernes 27/03 - 12:00 hrs:** Repaso | [Introducción a la Clasificación](https://valbarriere.github.io/minerias/4_intro_sl/)   |
 |    4     | 30/03 - 05/04 | **Lunes 30/03 - 12:00 hrs:** Selección y reducción de atributos <br/>**Lunes 30/03 - 14:30 hrs:** Laboratorio 2 <br/> **Viernes 03/04 - 12:00 hrs:** FERIADO | [Selección y reducción de atributos](https://valbarriere.github.io/minerias/10_reduccion_atributos/) |
 |          | 06/04 - 12/04 | **RECESO ACADÉMICO**                                         |                                                              |
