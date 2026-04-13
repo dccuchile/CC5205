@@ -14,7 +14,7 @@
 |    4     | 30/03 - 05/04 | **Lunes 30/03 - 12:00 hrs:** Intro Aprendizaje <br/>**Lunes 30/03 - 14:30 hrs:** Laboratorio 2 <br/> **Viernes 03/04 - 12:00 hrs:** FERIADO | [Introducción a la Clasificación](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/Clase5_Clasificacio%CC%81nI.pdf) |
 |          | 06/04 - 12/04 | **RECESO ACADÉMICO**                                         |                                                              |
 |    5     | 13/04 - 19/04 | **Lunes 13/04 - 12:00 hrs:** Sesión de Grupo Proyecto #1 <br/> **Viernes 17/04 - 12:00 hrs:** Modelos de Clasificación I | [Modelos de clasificación I](#)
-|    6     | 20/04 - 26/04 | **Lunes 20/04 - 12:00 hrs:** Modelos de clasificación II <br/>**Lunes 20/04 - 14:30 hrs:** Laboratorio 3 <br/>**Viernes 24/04 - 12:00 hrs:** Regresioón | [Modelos de clasificación II](#) <br/>[Regresión](#)  |
+|    6     | 20/04 - 26/04 | **Lunes 20/04 - 12:00 hrs:** Modelos de Clasificación II <br/>**Lunes 20/04 - 14:30 hrs:** Laboratorio 3 <br/>**Viernes 24/04 - 12:00 hrs:** Regresión | [Modelos de clasificación II](#) <br/>[Regresión](#)  |
 |    7     | 27/04 - 03/05 | **Lunes 27/04 - 12:00 hrs:** Clustering<br/>**Lunes 27/04 - 14:30 hrs:** Laboratorio 4<br/>**Viernes 01/05 - 12:00 hrs:** FERIADO | [Clustering](#) |
 |    8     | 04/05 - 10/05 | **Lunes 04/05 - 12:00 hrs:** Clustering<br/>**Viernes 08/05 - 12:00 hrs:** Sesión de Grupo Proyecto #2 | [Clustering](#) |
 |    9     | 11/05 - 17/05 | **Lunes 11/05 - 12:00 hrs:** Selección y Reducción de Atributos <br/>**Lunes 11/05 - 14:30 hrs:** Laboratorio 5<br/>**Viernes 15/05 - 12:00 hrs:** Presentación Hito 1 | [Selección y Reducción de Atributos](#)|
