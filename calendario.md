@@ -19,7 +19,7 @@
 |    8     | 04/05 - 10/05 | **Lunes 04/05 - 12:00 hrs:** Clustering II y Reducción de atributos<br/>**Viernes 08/05 - 12:00 hrs:** Sesión de Grupo Proyecto #2 | [Clustering II y Reducción de atributos](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c10_clustering_II.pdf) |
 |    9     | 11/05 - 17/05 | **Lunes 11/05 - 12:00 hrs:** Sesgos y equidad <br/>**Lunes 11/05 - 14:30 hrs:** Laboratorio 5 | [Sesgos y equidad](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/DM_Biases.pdf)|
 |          | 18/05 - 24/05 | **RECESO ACADÉMICO**                                         |                                                              |
-|    10    | 25/05 - 31/05 | **Lunes 25/05 - 12:00 hrs:** Redes Neuronales <br/>**Lunes 25/05 - 14:30 hrs:** Laboratorio 6<br/>**Viernes 29/05 - 12:00 hrs:** Presentación Hito 1 | [Redes Neuronales](#) |
+|    10    | 25/05 - 31/05 | **Lunes 25/05 - 12:00 hrs:** Redes Neuronales <br/>**Lunes 25/05 - 14:30 hrs:** Laboratorio 6<br/>**Viernes 29/05 - 12:00 hrs:** Presentación Hito 1 | [Redes Neuronales](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/DM_NNet.pdf) |
 |    11    | 01/06 - 07/06 | **Lunes 01/06 - 12:00 hrs:** Intro a NLP<br/>**Lunes 01/06 - 14:30 hrs:** Laboratorio 7<br/>**Viernes 05/06 - 12:00 hrs:** Sesión de Grupo Proyecto #3 | [Intro a la NLP](#) |
 |    12    | 08/06 - 14/06 | **Lunes 08/06 - 14:30 hrs:** Laboratorio Recuperativo| |
 |    13    | 15/06 - 21/06 | **Viernes 19/06 - 12:00 hrs:** Entrega y Presentación Final del Proyecto | |
