@@ -21,5 +21,5 @@
 |          | 18/05 - 24/05 | **RECESO ACADÉMICO**                                         |                                                              |
 |    10    | 25/05 - 31/05 | **Lunes 25/05 - 12:00 hrs:** Redes Neuronales <br/>**Lunes 25/05 - 14:30 hrs:** Laboratorio 6<br/>**Viernes 29/05 - 12:00 hrs:** Presentación Hito 1 | [Redes Neuronales](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/DM_NNet.pdf) |
 |    11    | 01/06 - 07/06 | **Lunes 01/06 - 12:00 hrs:** Intro a NLP<br/>**Lunes 01/06 - 14:30 hrs:** Laboratorio 7<br/>**Viernes 05/06 - 12:00 hrs:** Sesión de Grupo Proyecto #3 | [Intro a la NLP](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/2026_NLP_crash.pdf) |
-|    12    | 08/06 - 14/06 | **Lunes 08/06 - 14:30 hrs:** Laboratorio Recuperativo| |
+|    12    | 08/06 - 14/06 | **Lunes 15/06 - 14:30 hrs:** Laboratorio Recuperativo| |
 |    13    | 15/06 - 21/06 | **Viernes 19/06 - 12:00 hrs:** Entrega y Presentación Final del Proyecto | |
