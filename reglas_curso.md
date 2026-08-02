@@ -54,7 +54,7 @@ El informe es incremental y se presenta en formato de una página Web (HTML).
 
 Tienen una 1 semana para atrasos en la entrega del informe con descuentos de 1 pto a la nota por día. Las ausencias en las sesiones de trabajo serán penalizadas por 0.3 puntos en la nota del hito correspondiente. 
 
-Las instrucciones se encontran disponible [acá](https://github.com/dccuchile/CC5205). 
+Las instrucciones se encuentran disponible [acá](https://github.com/dccuchile/CC5205). 
 
 ### Notas
 
