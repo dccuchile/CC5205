@@ -68,7 +68,7 @@ Las instrucciones se encuentran disponible [acá](https://github.com/dccuchile/C
 
 • Nota Proyecto = 0.3 \* H1 + 0.3 \* H2 + 0.4 \* H3 
 
-• Nota Final = NP \* 0,4 + NL \* 0,4 + NC \* 0,2
+• Nota Final = NP \* 0,4 + NL \* 0,3 + NC \* 0,3
 
 #### Requisitos de Aprobación (se deben cumplir TODOS)
 
