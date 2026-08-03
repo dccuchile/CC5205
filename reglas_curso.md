@@ -85,3 +85,7 @@ Si se falta a un mini-control y se presenta una justificación formal (siguiendo
 Si existen dos o más inasistencias justificadas formalmente, el mini-control recuperativo reemplaza todas ellas, pero no reemplaza la peor nota de los mini-controles asistidos o de alguna inasistencia injustificada.
 
 Los mecanismos de justificación son los establecidos por la escuela.
+
+## Importante
+
+Todo/a estudiante debe estar en condiciones de presentar y explicar en detalle, en forma personal, cualquier actividad evaluada. Tales presentaciones serán solicitadas a los/as estudiantes a criterio del profesor/a, sin necesariamente implicar sospecha de copia. La nota de la actividad está sujeta a la explicación dada: si un/a estudiante no puede explicarla en detalle, puede implicar tener nota 1.0 en la actividad. 
