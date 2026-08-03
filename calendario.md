@@ -8,7 +8,7 @@
 
 | Semana | Fecha | Actividades cátedra <br>(Lunes y Viernes 12:00hrs) | Actividades auxiliar <br>(Viernes 16:15hrs) |
 |:---:|:---:|---|---|
-| 1 | 03/08 - 09/08 | **Lunes**: [Introducción]() y [Reglas del curso](https://github.com/dccuchile/CC5205/blob/master/reglas_curso.md)<br>**Viernes**: Datos | [Explicación Proyecto]() |
+| 1 | 03/08 - 09/08 | **Lunes**: [Introducción](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c1_introduccion.pdf) y [Reglas del curso](https://github.com/dccuchile/CC5205/blob/master/reglas_curso.md)<br>**Viernes**: Datos | [Explicación Proyecto]() |
 | 2 | 10/08 - 16/08 | **Lunes**: Exploración de datos I<br>**Viernes**: Exploración de datos II | Tutorial 1: Introducción a Python/Colab |
 | 3 | 17/08 - 23/08 | **Lunes**: Preprocesamiento de datos<br>**Viernes**: Selección y reducción de atributos | Minicontrol y Laboratorio 1 |
 | 4 | 24/08 - 30/08 | **Lunes**: Intro Aprendizaje (supervisado versus no supervisado)<br>**Viernes**: Clasificación I (intro, framework, métricas) | |
