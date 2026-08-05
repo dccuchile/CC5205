@@ -1,8 +1,8 @@
 # CC5205 Primavera 2026 - Secciones 1 y 2
 
 * Profesores de Cátedra: [Cinthia Sánchez](https://users.dcc.uchile.cl/~cisanche/), [Cristian Llull]()
-* Profesores Auxiliares: 
-* Ayudantes: 
+* Profesores Auxiliares: Benjamín Farías, Nahuel Gómez
+* Ayudantes: Laura Maldonado, Felipe Muñoz, Adolfo Rojas, Martín Meza
 
 ## Contenidos por semana
 
