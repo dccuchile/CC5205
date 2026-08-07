@@ -1,4 +1,4 @@
-**Proyecto de Minería de Datos**
+# Proyecto de Minería de Datos
 
 El proyecto del curso de Minería de Datos tiene como objetivo que los estudiantes trabajen en equipo siguiendo la metodología completa de minería de datos. Esto incluye la selección de un conjunto de datos, su exploración y limpieza, la formulación de preguntas que puedan ser respondidas mediante técnicas de aprendizaje automático, la aplicación de modelos, la interpretación de resultados y la evaluación de si se han descubierto nuevos patrones o se han respondido adecuadamente las preguntas planteadas.
 
