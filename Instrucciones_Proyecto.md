@@ -176,7 +176,7 @@ Implementar (en su totalidad) al menos uno de los experimentos planteados en la 
 
 El objetivo de este hito es presentar los resultados de los experimentos propuestos en el Hito 2\. En la presentación final, deberán resumir su trabajo destacando las conclusiones basadas en los resultados obtenidos, las lecciones aprendidas y las posibles líneas de trabajo futuro.
 
-**A. Presentación (Presencial \- 10 minutos): Presentación en formato PPT o PDF.**
+**A. Presentación (Presencial \- 7 minutos): Presentación en formato PPT o PDF.**
 
 #### **Motivación y Objetivos Principales**
 
