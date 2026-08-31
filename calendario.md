@@ -12,7 +12,7 @@
 | 2 | 10/08 - 16/08 | **Lunes**: [Exploración de datos I](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c3_EDA_I.pdf)<br>**Viernes**: [Exploración de datos II](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c4_EDA_II.pdf) | Tutorial 1: Introducción a Python/Colab |
 | 3 | 17/08 - 23/08 | **Lunes**: [Preprocesamiento de datos](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c5_Preprocesamiento.pdf)<br>**Viernes**: [Selección y reducción de atributos](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c6_Selecci%C3%B3n_Reducci%C3%B3n.pdf) | Minicontrol y Laboratorio 1 |
 | 4 | 24/08 - 30/08 | **Lunes**: [Intro Aprendizaje (supervisado versus no supervisado)](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c7_Intro_Aprendizaje.pdf)<br>**Viernes**: [Clasificación I (intro, framework, métricas)](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c8_Clasificaci%C3%B3n_I.pdf) | |
-| 5<br>SEMANA OLIMPICA | 31/08 - 06/09 | **Lunes**: Clasificación II (algoritmos)<br>**Viernes**: Clasificación III (algoritmos) | Tutorial 2: Clasificación |
+| 5<br>SEMANA OLIMPICA | 31/08 - 06/09 | **Lunes**: [Clasificación II (algoritmos)](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c9_Clasificaci%C3%B3n_II.pdf)<br>**Viernes**: Clasificación III (algoritmos) | Tutorial 2: Clasificación |
 | 6 | 07/09 - 13/09 | **Lunes**: Sesión de Grupo Proyecto #1<br>**Viernes**: Regresión, Modelos lineales I | Minicontrol y Laboratorio 2|
 | RECESO | 14/09 - 20/09 | - | - |
 | 7 | 21/09 - 27/09 | **Lunes**: Regresión, Modelos lineales II<br>**Viernes**: Clustering I (intro, framework, algoritmos) | Tutorial 3: Regresión |
