@@ -13,9 +13,9 @@
 | 3 | 17/08 - 23/08 | **Lunes**: [Preprocesamiento de datos](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c5_Preprocesamiento.pdf)<br>**Viernes**: [Selección y reducción de atributos](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c6_Selecci%C3%B3n_Reducci%C3%B3n.pdf) | Minicontrol y Laboratorio 1 |
 | 4 | 24/08 - 30/08 | **Lunes**: [Intro Aprendizaje (supervisado versus no supervisado)](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c7_Intro_Aprendizaje.pdf)<br>**Viernes**: [Clasificación I (intro, framework, métricas)](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c8_Clasificaci%C3%B3n_I.pdf) | |
 | 5<br>SEMANA OLIMPICA | 31/08 - 06/09 | **Lunes**: [Clasificación II (algoritmos)](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c9_Clasificaci%C3%B3n_II.pdf)<br>**Viernes**: [Clasificación III (algoritmos)](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c10_Clasificacio%CC%81n_III.pdf) | Tutorial 2: Clasificación |
-| 6 | 07/09 - 13/09 | **Lunes**: Sesión de Grupo Proyecto #1<br>**Viernes**: Regresión, Modelos lineales I | Minicontrol y Laboratorio 2|
+| 6 | 07/09 - 13/09 | **Lunes**: Sesión de Grupo Proyecto #1<br>**Viernes**: Regresión, Modelos lineales I | |
 | RECESO | 14/09 - 20/09 | - | - |
-| 7 | 21/09 - 27/09 | **Lunes**: Regresión, Modelos lineales II<br>**Viernes**: Clustering I (intro, framework, algoritmos) | Tutorial 3: Regresión |
+| 7 | 21/09 - 27/09 | **Lunes**: Regresión, Modelos lineales II<br>Publicación del Tutorial 3: Regresión<br>**Viernes**: Clustering I (intro, framework, algoritmos) | Minicontrol y Laboratorio 2|
 | 8 | 28/09 - 04/10 | **Lunes**: Presentación Hito 1<br>**Viernes**: Clustering II (validación) | Minicontrol y Laboratorio 3 |
 | 9 | 05/10 - 11/10 | **Lunes**: Clustering III (análisis de clusters)<br>**Viernes**: Sesgos y Causalidades | Tutorial 4: Clustering |
 | 10 | 12/10 - 18/10 | **Lunes**: FERIADO<br>**Viernes**: Sesión de Grupo Proyecto #2 | Minicontrol y Laboratorio 4 |
