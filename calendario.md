@@ -16,8 +16,8 @@
 | 6 | 07/09 - 13/09 | **Lunes**: Sesión de Grupo Proyecto #1<br>**Viernes**: [Regresión, Modelos lineales I](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c11_Regresi%C3%B3n.pdf) | |
 | RECESO | 14/09 - 20/09 | - | - |
 | 7 | 21/09 - 27/09 | **Lunes**: [Regresión, Modelos lineales II](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c12_Modelos_Lineales.pdf)<br>Publicación del Tutorial 3: Regresión<br>**Viernes**: [Clustering I (intro)](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c13_Clustering_I.pdf) | Minicontrol y Laboratorio 2|
-| 8 | 28/09 - 04/10 | **Lunes**: Presentación Hito 1<br>**Viernes**: Clustering II (validación) | Minicontrol y Laboratorio 3 |
-| 9 | 05/10 - 11/10 | **Lunes**: Clustering III (análisis de clusters)<br>**Viernes**: Sesgos y Causalidades | Tutorial 4: Clustering |
+| 8 | 28/09 - 04/10 | **Lunes**: Presentación Hito 1<br>**Viernes**: [Clustering II (algoritmos)](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c14_Clustering_II.pdf) | Minicontrol y Laboratorio 3 |
+| 9 | 05/10 - 11/10 | **Lunes**: Clustering III (validación)<br>**Viernes**: Sesgos y Causalidades | Tutorial 4: Clustering |
 | 10 | 12/10 - 18/10 | **Lunes**: FERIADO<br>**Viernes**: Sesión de Grupo Proyecto #2 | Minicontrol y Laboratorio 4 |
 | 11 | 19/10 - 25/10 | **Lunes**: Interpretabilidad, equidad y ética<br>**Viernes**: Redes neuronales | Tutorial 5: Redes neuronales |
 | RECESO | 26/10 - 01/11 | - | - |
