@@ -19,7 +19,7 @@
 | 8 | 28/09 - 04/10 | **Lunes**: Presentación Hito 1<br>**Viernes**: [Clustering III (validación)](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c15_Clustering_III.pdf) | Minicontrol y Laboratorio 3 |
 | 9 | 05/10 - 11/10 | **Lunes**: [Sesgos y Causalidades](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c16_sesgos_causalidades.pdf) <br>**Viernes**: Reunión de equipos y trabajo libre | Tutorial 4: Clustering [Online] |
 | 10 | 12/10 - 18/10 | **Lunes**: FERIADO<br>**Viernes**: Sesión de Grupo Proyecto #2 | Minicontrol y Laboratorio 4 |
-| 11 | 19/10 - 25/10 | **Lunes**: Interpretabilidad, equidad y ética<br>**Viernes**: Redes neuronales | Tutorial 5: Redes neuronales |
+| 11 | 19/10 - 25/10 | **Lunes**: [Interpretabilidad, equidad y ética](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c17_Interpretabilidad_equidad_e%CC%81tica.pdf)<br>**Viernes**: Redes neuronales | Tutorial 5: Redes neuronales |
 | RECESO | 26/10 - 01/11 | - | - |
 | 12 | 02/11 - 08/11 | **Lunes**: Presentación Hito 2<br>**Viernes**: Introducción a NLP | Tutorial 6: NLP |
 | 13 | 09/11 - 15/11 | **Lunes**: Introducción a Visión por Computadora<br>**Viernes**: Sesión de Grupo Proyecto #3 | Tutorial 7: Visión por computador |
