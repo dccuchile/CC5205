@@ -22,6 +22,6 @@
 | 11 | 19/10 - 25/10 | **Lunes**: [Interpretabilidad, equidad y ética](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c17_Interpretabilidad_equidad_e%CC%81tica.pdf)<br>**Viernes**: [Redes neuronales](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c18_Redes_Neuronales.pdf) | Tutorial 5: Redes neuronales |
 | RECESO | 26/10 - 01/11 | - | - |
 | 12 | 02/11 - 08/11 | **Lunes**: Presentación Hito 2<br>**Viernes**: [Introducción a NLP](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c19_Intro_NLP.pdf) | Tutorial 6: NLP |
-| 13 | 09/11 - 15/11 | **Lunes**: Introducción a Visión por Computadora<br>**Viernes**: Sesión de Grupo Proyecto #3 | Tutorial 7: Visión por computador |
+| 13 | 09/11 - 15/11 | **Lunes**: [Introducción a Visión por Computadora](https://github.com/dccuchile/CC5205/blob/master/Diapositivas/c20_Intro_CV.pdf) <br>**Viernes**: Sesión de Grupo Proyecto #3 | Tutorial 7: Visión por computador |
 | 14 | 16/11 - 22/11 | Horario de consultas | Minicontrol y Laboratorio 5 |
 | 15 | 23/11 - 29/11 | **Lunes**: Presentación Hito 3<br>**Viernes**: Presentación Hito 3 | Minicontrol y Laboratorio recuperativo |
